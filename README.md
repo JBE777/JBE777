@@ -48,9 +48,9 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
-![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
+![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbe777&repo=github-readme-stats)](https://github.com/jbe777/github-readme-stats&show_icons=true&theme=gruvbox) 
+
 
 
 
