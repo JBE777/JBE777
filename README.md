@@ -50,7 +50,7 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
 
-![gruvbox](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 
