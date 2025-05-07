@@ -44,13 +44,14 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-## Desarrollo de tecnologias
+## Estadisticas de tecnologias usadas
 
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbe777&repo=github-readme-stats)](https://github.com/jbe777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbe777&repo=github-readme-stats)](https://github.com/jbe777/github-readme-stats&show_icons=true&theme=gruvbox) 
+
 
 
 
