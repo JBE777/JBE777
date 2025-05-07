@@ -1,8 +1,7 @@
-# Hi there 👋
-### Bienvenido al GitHub de Javier Baez
+
+### 🏠Bienvenido al GitHub de Javier Baez
 
 ![JavierBaez](banner-github-jbe777.png)
-
 
 
 
