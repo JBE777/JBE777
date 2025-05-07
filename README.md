@@ -50,7 +50,7 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr)
+![gruvbox](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 
 
 
