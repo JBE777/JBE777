@@ -50,4 +50,4 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=dark) 
 
-![jbe777](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=dark)
+![jbe777](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=medium)
