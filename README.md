@@ -51,3 +51,7 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=pie)](https://github.com/jbe777/github-readme-stats)
+
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=dark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jb3777&layout=compact&theme=dark)
