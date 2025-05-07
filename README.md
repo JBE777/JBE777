@@ -25,6 +25,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
 
 Comunidad y sitios dedicados a compartir conocimientos en programación y diversas  tecnologías. Esto con el proposito de aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.👍
@@ -36,6 +37,7 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-%23F9A825.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,7 +46,6 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ## Desarrollo de tecnologias
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbe777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbe777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00ff00&icon_color=ffff50&text_color=ffffff&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
