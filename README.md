@@ -21,4 +21,8 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
+## Desarrollo de tecnologias
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
