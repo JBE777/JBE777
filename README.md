@@ -46,8 +46,9 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ## Desarrollo de tecnologias
 
-![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
-
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=dark) 
 
-![jbe777](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=medium)
+![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
+
+
+
