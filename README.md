@@ -50,6 +50,6 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jbe777)](https://github.com/jbe777/github-readme-stats)
+[![jbe777](https://github-readme-stats.vercel.app/api/jbe777?username=jbe777)](https://github.com/jbe777/github-readme-stats)
 
 
