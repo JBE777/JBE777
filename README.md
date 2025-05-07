@@ -49,3 +49,5 @@ Comunidad y sitios dedicados a compartir conocimientos en programación y divers
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbe777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00ff00&icon_color=ffff50&text_color=ffffff&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=pie)](https://github.com/jbe777/github-readme-stats)
