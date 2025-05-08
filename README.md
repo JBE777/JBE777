@@ -16,7 +16,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
-* Doctor en Educación (CUT-MX, graduado-2019)<hr>
+* Doctor en Educación (CUT-MX, graduado-2019)
+<hr>
 
 
 ### Bienvenido a mi GitHub 
