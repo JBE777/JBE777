@@ -2,7 +2,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ===================================================================================================================================
 
 ### Estoy aprendiendo las siguientes tecnologias:
-* ##### <em>Haz click sobre cada icono para aprender del tema<em>
+* ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b> 
  
 <hr>
 
