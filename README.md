@@ -32,10 +32,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-
-
-
-## Tecnologias 💻
+### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -48,9 +45,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-## Estadisticas de tecnologias usadas
-
+### Estadisticas de tecnologias usadas
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
