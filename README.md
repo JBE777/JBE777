@@ -8,12 +8,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
-<hr>
-
 ### Estoy aprendiendo las siguientes tecnologias:
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
@@ -23,6 +17,12 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![GitHub](https://img.shields.io/badge/github-%23008080.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
+<hr>
+
 
 ### Cursos tomados:
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
