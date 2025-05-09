@@ -20,9 +20,6 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
 ### Cursos tomados:
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
@@ -41,6 +38,9 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
   * Python TOTAL- Programador Avanzado en 16 días
   * Robótica móvil para principiantes con ESP32
   * SQL-Bases de Datos Desde Cero
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
 ### Formación profesional:
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
