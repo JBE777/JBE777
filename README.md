@@ -30,7 +30,6 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
-<hr>
 
 ### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
