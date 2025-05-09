@@ -32,6 +32,25 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
+### Cursos tomados:
+* Henry Data Science(tecnologias:Python, SQL y non SQL)
+* Coursera:
+  * THE HONG KONG UNIVERSITY: Matrix Algebra for Engineers   
+  * THE HONG KONG UNIVERSITY: Vector Calculus for Engineers 
+  * PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE: Electrones en Acción: 
+    Electrónica y Arduinos para tus propios Inventos
+  * UNIVERSIDAD DE CHILE: El desafío de Innovar en la Educación Superior
+  * UNIVERSIDAD AUTONOMA DE BARCELONA: Sistemas Digitales:  
+    De las puertas lógicas al procesador 
+* Udemy: 
+  * Curso de HTML5 y CSS3
+  * Maestría en CSS3-Flexbox, Grid, SASS, Bootstrap 5
+  * Python Orientado a la Electronica
+  * Python TOTAL para Data Science & Machine Learning en 18 Días
+  * Python TOTAL- Programador Avanzado en 16 días
+  * Robótica móvil para principiantes con ESP32
+  * SQL-Bases de Datos Desde Cero
+
 ### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
