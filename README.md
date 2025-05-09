@@ -33,6 +33,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   * Python TOTAL- Programador Avanzado en 16 días
   * Robótica móvil para principiantes con ESP32
   * SQL-Bases de Datos Desde Cero
+  * SQL TOTAL-Domina Bases de Datos de 0 a Avanzado en 12 Días
+  * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 
@@ -48,9 +50,6 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
-
-
-
 
 ### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
