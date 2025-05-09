@@ -48,7 +48,6 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
-<hr>
 
 
 
