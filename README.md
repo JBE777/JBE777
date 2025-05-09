@@ -22,7 +22,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=ivdTnPl1ND0&t=79s)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![GitHub](https://img.shields.io/badge/github-%23008080.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)<hr>
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 
 ### Formación profesional:
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
@@ -30,6 +30,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
+<hr>
 
 ### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
