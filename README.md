@@ -55,7 +55,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.youtube.com/watch?v=tWnyBD2src0&t=8713s)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%23F9A825.svg?style=for-the-badge&logo=powerbi&logoColor=black)
