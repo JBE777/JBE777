@@ -9,20 +9,20 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ### Estoy aprendiendo las siguientes tecnologias:
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![HTML5](https://img.shields.io/badge/Aprende-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![CSS3](https://img.shields.io/badge/estudia-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=ivdTnPl1ND0&t=79s)
-[![Git](https://img.shields.io/badge/Terminal-git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
-[![GitHub](https://img.shields.io/badge/entiende-github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![NodeJS](https://img.shields.io/badge/entorno-node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-[![Kaggle](https://img.shields.io/badge/archivos-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
+[![HTML5](https://img.shields.io/badge/click-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![CSS3](https://img.shields.io/badge/click-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![JavaScript](https://img.shields.io/badge/click-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+[![Git](https://img.shields.io/badge/click-git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![GitHub](https://img.shields.io/badge/click-github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![NodeJS](https://img.shields.io/badge/click-node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+[![Kaggle](https://img.shields.io/badge/click-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/cursos-Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue)](https://www.coursera.org/)
 [![Duolingo](https://img.shields.io/badge/ingles-Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=green)](https://www.duolingo.com/)
 [![edX](https://img.shields.io/badge/cursos-edX-%23f62B.svg?style=for-the-badge&logo=edX&logoColor=red)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/cursos-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=violet)](https://www.udemy.com/)
-[![Linux](https://img.shields.io/badge/apernde-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
-[![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/PlatformIO_vscode-arduino-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
-[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color-Picker-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://imagecolorpicker.com/)
+[![Linux](https://img.shields.io/badge/click-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/click_PlatformIO_vscode-arduino-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
+[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/click_Color-Picker-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://imagecolorpicker.com/)
 [![Paint-Windows](https://img.shields.io/badge/code-Paint-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)
 
 ### Cursos tomados:
@@ -50,9 +50,9 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
+[![YouTube](https://img.shields.io/badge/click-YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/click-Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Arduino](https://img.shields.io/badge/click-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=green)](https://pastebin.com/u/Braulio777)
 ### Formación profesional:
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
