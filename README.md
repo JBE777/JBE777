@@ -56,7 +56,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 [![Instructables](https://img.shields.io/badge/click-Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/click-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=green)](https://pastebin.com/u/Braulio777)
 
-![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
@@ -65,7 +65,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 <hr>
 
 ### Tecnologias 💻
-[[![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
+[![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/sql-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
