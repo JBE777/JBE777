@@ -6,7 +6,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![banner](github-jbe777.png)
 <br>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo-nuevas_tecnologias-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=gold)
+![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
