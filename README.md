@@ -1,12 +1,13 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/Bienvenido_a_mi_github-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Bienvenido](https://img.shields.io/badge/Bienvenido_a_mi_github-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
 
 ![banner](github-jbe777.png)
 <br>
 
-### Estoy aprendiendo las siguientes tecnologias:
+![Esbuild](https://img.shields.io/badge/Aprendiendo_las_siguientes_tecnologias-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=red)
+
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![HTML5](https://img.shields.io/badge/click-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
