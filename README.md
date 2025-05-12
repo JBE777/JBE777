@@ -26,7 +26,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Color Picker RGB-HEX-Code](https://img.shields.io/badge/click_Color-Picker-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://imagecolorpicker.com/)
 [![Paint-Windows](https://img.shields.io/badge/code-Paint-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)
 
-![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ffff.svg?style=for-the-badge&logo=gitbook&logoColor=red)
+![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
 
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
