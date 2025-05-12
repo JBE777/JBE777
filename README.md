@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Javier Baez
 ===================================================================================================================================
 
-## Bienvenido a mi GitHub 
+![Bienvenido](https://img.shields.io/badge/Bienvenido_a_mi_github-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![banner](github-jbe777.png)
 <br>
@@ -62,7 +62,7 @@ Para aprender mas, incluyo las siguientes fuentes de consulta.👍
 <hr>
 
 ### Tecnologias 💻
-[![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/watch?v=tWnyBD2src0&t=8713s)
+[[![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/sql-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
