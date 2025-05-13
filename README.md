@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
 
 ![banner](github-jbe777.png)
-<br>
+<br/><hr/>
 
 ![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23FF0000.svg?style=for-the-badge&logo=esbuild&logoColor=black)
 
