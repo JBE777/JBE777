@@ -1,32 +1,32 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
+![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23FF0000.svg?style=for-the-badge&logo=esbuild&logoColor=black)
+![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23FF0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![HTML5](https://img.shields.io/badge/click-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![CSS3](https://img.shields.io/badge/click-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
-[![JavaScript](https://img.shields.io/badge/click-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
-[![Git](https://img.shields.io/badge/click-git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
-[![GitHub](https://img.shields.io/badge/click-github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![NodeJS](https://img.shields.io/badge/click-node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-[![Kaggle](https://img.shields.io/badge/click-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
-[![Coursera](https://img.shields.io/badge/cursos-Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue)](https://www.coursera.org/)
-[![Duolingo](https://img.shields.io/badge/ingles-Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=green)](https://www.duolingo.com/)
-[![edX](https://img.shields.io/badge/cursos-edX-%23f62B.svg?style=for-the-badge&logo=edX&logoColor=red)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/cursos-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=violet)](https://www.udemy.com/)
-[![Linux](https://img.shields.io/badge/click-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
-[![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/click_PlatformIO_vscode-arduino-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
-[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/click_Color-Picker-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://imagecolorpicker.com/)
-[![Paint-Windows](https://img.shields.io/badge/code-Paint-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![GitHub](https://img.shields.io/badge/github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/)
+[![edX](https://img.shields.io/badge/edX-%23f62B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/PlatformIO%20vscode%20arduino-%230000ff.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
+[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color%20Picker-0078D7?style=for-the-badge&logo=css&logoColor=white)](https://imagecolorpicker.com/)
+[![Paint-Windows](https://img.shields.io/badge/Paint-0078D7?style=for-the-badge&logo=pug&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
 
-![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
+![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
@@ -49,16 +49,16 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 
-![Para Aprender](https://img.shields.io/badge/Para%20aprender%20-%20incluyo%20las%20siguientes%20fuentes-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Para Aprender](https://img.shields.io/badge/Para%20aprender%20%20incluyo%20las%20siguientes%20fuentes-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 👍
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=g&logo=instructablesColor=white)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=green)](https://pastebin.com/u/Braulio777)<hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
@@ -66,7 +66,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Aprende-Tecnologias-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 💻
+![Tecnologias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white) 💻
 <br/>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=red)](https://www.youtube.com/codingwithestefania)
@@ -82,6 +82,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 ### Estadisticas de tecnologias usadas
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<hr/>
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
 ![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
