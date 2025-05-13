@@ -49,7 +49,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 
-![Para Aprender](https://img.shields.io/badge/Para%20aprender%20mas%20-%20incluyo%20las%20siguientes%20fuentes-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Para Aprender](https://img.shields.io/badge/Para%20aprender%20-%20incluyo%20las%20siguientes%20fuentes-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 👍
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
@@ -66,7 +66,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-![Tecnoligias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 💻
+![Tecnologias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 💻
 <hr/>
 
 [![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
