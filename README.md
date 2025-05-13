@@ -23,8 +23,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/PlatformIO%20vscode%20arduino-%230000ff.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
-[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color%20Picker-0078D7?style=for-the-badge&logo=css&logoColor=white)](https://imagecolorpicker.com/)
-[![Paint-Windows](https://img.shields.io/badge/Paint-0078D7?style=for-the-badge&logo=pug&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
+[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color%20Picker-0078D7?style=for-the-badge&logo=esbuild&logoColor=white)](https://imagecolorpicker.com/)
+[![Paint-Windows](https://img.shields.io/badge/Paint-0078D7?style=for-the-badge&logo=esbuild&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
