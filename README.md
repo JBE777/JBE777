@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
+![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%2300ccff.svg?style=for-the-badge&logo=gitbook&logoColor=orange)
 
 ![banner](github-jbe777.png)
 <br>
