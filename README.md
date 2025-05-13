@@ -28,7 +28,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
 
-* <b>Henry Data Science(tecnologias:Python, SQL y non SQL)<b/>
+* <strong>Henry Data Science(tecnologias:Python, SQL y non SQL)<strong/>
 * Coursera:
   * THE HONG KONG UNIVERSITY: Matrix Algebra for Engineers   
   * THE HONG KONG UNIVERSITY: Vector Calculus for Engineers 
