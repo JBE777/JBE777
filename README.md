@@ -28,7 +28,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
 
-* <strong>Henry Data Science(tecnologias:Python, SQL y non SQL)<strong/>
+* Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
   * THE HONG KONG UNIVERSITY: Matrix Algebra for Engineers   
   * THE HONG KONG UNIVERSITY: Vector Calculus for Engineers 
@@ -48,7 +48,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   * SQL TOTAL-Domina Bases de Datos de 0 a Avanzado en 12 Días
   * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
-Para aprender mas, incluyo las siguientes fuentes de consulta.👍
+![Para aprender](https://img.shields.io/badge/Para_aprender_mas_incluyo_las_ siguientes_fuentes_de_consulta-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
+👍
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
