@@ -66,7 +66,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-### Tecnologias 💻
+![Tecnoligias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 💻
 [![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/sql-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
