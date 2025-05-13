@@ -1,12 +1,12 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23FF0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
@@ -26,7 +26,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color%20Picker-0078D7?style=for-the-badge&logo=css&logoColor=white)](https://imagecolorpicker.com/)
 [![Paint-Windows](https://img.shields.io/badge/Paint-0078D7?style=for-the-badge&logo=pug&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
 
-![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
@@ -49,8 +49,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 
-![Para Aprender](https://img.shields.io/badge/Para%20aprender%20%20incluyo%20las%20siguientes%20fuentes-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
-👍
+![Para Aprender](https://img.shields.io/badge/Para%20aprender%20incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
@@ -58,7 +58,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=green)](https://pastebin.com/u/Braulio777)<hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
@@ -66,7 +66,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white) 💻
+![Tecnologias](https://img.shields.io/badge/Tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 <br/>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=red)](https://www.youtube.com/codingwithestefania)
@@ -82,7 +82,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
 
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
