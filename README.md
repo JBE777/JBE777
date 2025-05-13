@@ -82,7 +82,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<hr/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23ff0000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
 
 ![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
