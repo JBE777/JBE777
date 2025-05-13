@@ -69,8 +69,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-%23ff0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 💻
 <br/>
 
-[![Python](https://img.shields.io/badge/py-python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
-![MySQL](https://img.shields.io/badge/sql-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/codingwithestefania)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.youtube.com/watch?v=6MpGhlVXUiw)
