@@ -24,7 +24,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Linux](https://img.shields.io/badge/click-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/click_PlatformIO_vscode-arduino-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
 [![Color Picker RGB-HEX-Code](https://img.shields.io/badge/click_Color-Picker-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://imagecolorpicker.com/)
-[![Paint-Windows](https://img.shields.io/badge/code-Paint-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)br/
+[![Paint-Windows](https://img.shields.io/badge/code-Paint-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23ff0000.svg?style=for-the-badge&logo=gitbook&logoColor=black)
 
