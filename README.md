@@ -83,7 +83,7 @@
 [![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=Instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion%20profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 * Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
 * Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
 * Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
@@ -91,7 +91,7 @@
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 <br/>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
@@ -107,7 +107,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
