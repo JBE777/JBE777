@@ -74,7 +74,7 @@
   * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 
-![Para Aprender](https://img.shields.io/badge/Para%20aprender%20incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
