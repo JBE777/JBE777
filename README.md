@@ -37,7 +37,6 @@
   * Blockchain
   * Internet de las cosas
   * Programación móvil 
-<br>
 
 [![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 * Especialidades:
