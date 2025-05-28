@@ -24,9 +24,34 @@
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato y sobetodo barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/uveg-ff0000?style=for-the-badge&logo=square&logoColor=black)](https://uveg.edu.mx/index.php/es/)
-<hr>
+* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg)y sobetodo barata y de calidad.<em></b>
+[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-3300aa?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
+
+* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
+[![IDS](https://img.shields.io/badge/Ingenieria_de_Software-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
+[![IDSC](https://img.shields.io/badge/Ingenieria_de_Sistemas_Computacionales-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+
+* Especialidades:
+  * Visión por computadora  
+  * Big Data
+  * Blockchain
+  * Internet de las cosas
+  * Programación móvil 
+<br>
+
+[![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+* Especialidades:
+  * Industrial 
+  * Emprendimiento
+  * Tecnologia
+
+[![II](https://img.shields.io/badge/Ingenieria_Industrial-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria_en_Gestion_de_tecnologia_de_Informacion-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+* Especialidades:
+  * Gestión de desarrollo de software 
+  * especialización en Arquitectura empresarial
+  * especialización en E-commerce
+<br><hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
