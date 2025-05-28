@@ -8,7 +8,7 @@
 
 ![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias%20html%20css3%20javascript-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
-* ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
+* ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
@@ -16,15 +16,13 @@
 [![Git](https://img.shields.io/badge/git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![GitHub](https://img.shields.io/badge/github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+
+* ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
-[![PlatformIO IDE-Extension VSCode for Arduino](https://img.shields.io/badge/PlatformIO%20vscode%20arduino-%230000ff.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)](https://www.youtube.com/watch?v=JmvMvIphMnY)
-[![Color Picker RGB-HEX-Code](https://img.shields.io/badge/Color%20Picker-0078D7?style=for-the-badge&logo=esbuild&logoColor=white)](https://imagecolorpicker.com/)
-[![Paint-Windows](https://img.shields.io/badge/Paint-0078D7?style=for-the-badge&logo=esbuild&logoColor=white)](https://www.microsoft.com/es-es/windows/paint?msockid=011b5a89585c68492f384e3e59a76934)<br/><hr/>
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
