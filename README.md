@@ -51,6 +51,7 @@
   * Gestión de desarrollo de software 
   * especialización en Arquitectura empresarial
   * especialización en E-commerce
+
 <br><hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
