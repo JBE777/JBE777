@@ -52,7 +52,7 @@
   * especialización en E-commerce
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos-tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
 * Coursera:
