@@ -24,7 +24,7 @@
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg)y sobetodo barata y de calidad.<em></b>
+* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
 [![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-3300aa?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
@@ -107,12 +107,11 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-
 ![Estadisticas](https://img.shields.io/badge/Estadisticas%20de%20tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
 
-![JBE777' GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
+![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
-![JBE777' Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
+![JBE777's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
 
 
 
