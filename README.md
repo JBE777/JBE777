@@ -24,6 +24,10 @@
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
+* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato y sobetodo barata y de calidad.<em></b>
+[![Uveg](https://img.shields.io/badge/uveg-ff0000?style=for-the-badge&logo=square&logoColor=black)](https://uveg.edu.mx/index.php/es/)
+<hr>
+
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 * Henry Data Science(tecnologias:Python, SQL y non SQL)
