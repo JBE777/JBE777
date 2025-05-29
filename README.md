@@ -76,7 +76,7 @@
 
 * ##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
 
-[![FP](https://img.shields.io/badge/Para_aprender-Los%20Fundamentos%20de%20Programacion-3300aa.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
+[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-3300aa.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
 
 ![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
