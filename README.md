@@ -52,17 +52,25 @@
   * especialización en E-commerce
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos-tomados-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_tomados-%23999900.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
-* Henry Data Science(tecnologias:Python, SQL y non SQL)
-* Coursera:
-  * THE HONG KONG UNIVERSITY: Matrix Algebra for Engineers   
-  * THE HONG KONG UNIVERSITY: Vector Calculus for Engineers 
-  * PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE: Electrones en Acción: Electrónica y Arduinos para tus propios Inventos
-  * UNIVERSIDAD DE CHILE: El desafío de Innovar en la Educación Superior
+![Henry](https://img.shields.io/badge/Cursos-Henry-%23ffff00.svg?style=for-the-badge&logo=git&logoColor=white) <br>
+![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br>
+
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-%233300aa.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:_Matrix_Algebra_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:_Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE:_Electrónica_y_Arduinos_para_tus_propios_Inventos-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE:_El_desafío_de_Innovar_en_la_Educación_Superior-%230000ff.svg?style=uni&logo=esbuild&logoColor=white)<br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY_OF_SCIENCE_AND_TECHNOLOGY-Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY_OF_SCIENCE_AND_TECHNOLOGY-Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY_OF_SCIENCE_AND_TECHNOLOGY-Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+  
   * UNIVERSIDAD AUTONOMA DE BARCELONA: Sistemas Digitales: De las puertas lógicas al procesador 
   * KNOWLEDGE-ACCELERATORS: From Excel to Power BI
-* Udemy: 
+<br>
+
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-%23000000.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
   * Curso de HTML5 y CSS3
   * Maestría en CSS3-Flexbox, Grid, SASS, Bootstrap 5
   * Python Orientado a la Electronica
