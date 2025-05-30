@@ -54,10 +54,10 @@
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23999900.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
-![Henry](https://img.shields.io/badge/Cursos-Henry-%23ffff00.svg?style=for-the-badge&logo=git&logoColor=white) <br><hr>
-![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br>
+![Henry](https://img.shields.io/badge/Cursos-Henry-%23ffff00.svg?style=for-the-badge&logo=git&logoColor=white) <br>
+![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br><hr>
 
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br><hr>
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:-%230000ff.svg?style=for-the-badge&logo=gitbook&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Matrix_Algebra_for_Engineers-%230077ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Vector_Calculus_for_Engineers-%230077ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
