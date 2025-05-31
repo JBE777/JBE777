@@ -28,28 +28,27 @@
 [![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-3300aa?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
-[![IDS](https://img.shields.io/badge/Ingenieria_de_Software-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
-[![IDSC](https://img.shields.io/badge/Ingenieria_de_Sistemas_Computacionales-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDS](https://img.shields.io/badge/Ingenieria_de_Software-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
+[![IDSC](https://img.shields.io/badge/Ingenieria_de_Sistemas_Computacionales-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Especialidades:-3300aa?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Vision_por_computadora-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Big_Data-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Blockchain-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Internet_de_lsa_cosas-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 
-* Especialidades:
-  * Visión por computadora  
-  * Big Data
-  * Blockchain
-  * Internet de las cosas
-  * Programación móvil 
+[![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Especialidades:-3300aa?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Industrial-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Emprendimiento-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Tecnologia-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 
-[![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-* Especialidades:
-  * Industrial 
-  * Emprendimiento
-  * Tecnologia
 
-[![II](https://img.shields.io/badge/Ingenieria_Industrial-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria_en_Gestion_de_tecnologia_de_Informacion-3300aa?style=universidad&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-* Especialidades:
-  * Gestión de desarrollo de software 
-  * especialización en Arquitectura empresarial
-  * especialización en E-commerce
+[![II](https://img.shields.io/badge/Ingenieria_Industrial-000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria_Gestion_tecnologia_en_Informacion-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especialidades:-3300aa?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Gestion_de_Desarrollo_de_software-3300aa?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especialidad_en_Arquitectura_empresarial-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-3300aa?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 <hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%23993399.svg?style=for-the-badge&logo=gitbook&logoColor=white)
