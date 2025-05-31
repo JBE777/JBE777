@@ -97,9 +97,15 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
-* Ingeniero Electrónico (UABC-MX, 2 años[incompleta])
-* Ingeniero Topógrafo y Geodesta (UABC-MX, graduado)
-* Bachelor of Science in Education(NAU-[Yuma,AZ-USA], graduado)
+[![UABC](https://img.shields.io/badge/Universidad_Autonoma_de_Baja_California,_Mexico-%23FF0000.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+![UABC](https://img.shields.io/badge/Ingeniero_Electrónico_2_years_incomplete-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![UABC](https://img.shields.io/badge/Ingeniero_Topógrafo_y_Geodesta,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+[![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+![UABC](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+
+
+
+* 
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
