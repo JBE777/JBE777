@@ -52,7 +52,7 @@
   * especialización en E-commerce
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%23999999.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%23993399.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br>
