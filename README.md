@@ -6,9 +6,9 @@
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-99ff00.svg?style=uni&logo=gitbook&logoColor=green): <b>HTML, CSS3 y JavaScript
+![Esbuild](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-99ff00.svg?style=uni&logo=gitbook&logoColor=green): # <b>HTML, CSS3 y JavaScript
 </b>  
-* ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
+##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 [![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
@@ -18,13 +18,13 @@
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
-* ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
+##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-99ff00?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
+##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
 [![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-99ff00?style=for-the-badge&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
