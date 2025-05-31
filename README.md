@@ -19,38 +19,38 @@
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-33000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-%230056D2?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
+[![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
 [![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-33000000?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
-[![IDS](https://img.shields.io/badge/Ingenieria_de_Software-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
-[![IDSC](https://img.shields.io/badge/Ingenieria_de_Sistemas_Computacionales-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDS](https://img.shields.io/badge/Ingenieria_de-Software-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
+[![IDSC](https://img.shields.io/badge/Ingenieria_de-Sistemas_Computacionales-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Especialidades:-777777?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Vision_por_computadora-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Big_Data-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Blockchain-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Internet_de_lsa_cosas-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 
-[![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Ingenieria_en-Gestion_de_Proyectos-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Especialidades:-777777?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Industrial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Emprendimiento-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Tecnologia-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 
-[![II](https://img.shields.io/badge/Ingenieria_Industrial-000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria_Gestion_tecnologia_en_Informacion-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![II](https://img.shields.io/badge/Ingenieria-Industrial-33000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria-Gestion_tecnologia_en_Informacion-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidades:-777777?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Gestion_de_Desarrollo_de_software-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidad_en_Arquitectura_empresarial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%33000ee.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%330000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ff0000.svg?style=university&logo=esbuild&logoColor=white) <br>
@@ -66,7 +66,7 @@
 ![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:-%23ff0000.svg?style=university&logo=coursera&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
-![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%33000ee.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%33000000.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
@@ -96,18 +96,18 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br>
-[![UABC](https://img.shields.io/badge/Universidad_Autonoma_de_Baja_California,_Mexico-%23FF0000.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 ![UABC](https://img.shields.io/badge/Ingeniero_Electrónico_2_years_incomplete-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![UABC](https://img.shields.io/badge/Ingeniero_Topógrafo_y_Geodesta,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-[![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+[![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 ![NAU](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-[![CETYS](https://img.shields.io/badge/Centro_de_enseñanza_tecnica_y_superior,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-![CETYS](https://img.shields.io/badge/Posgrados:-%23000000.svg?style=for-the-badge&logo=university&logoColor=white)<br>
+[![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+![CETYS](https://img.shields.io/badge/Posgrados:-%23555555.svg?style=uni&logo=university&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_Industrial-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_de_recursos_humanos-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Maestría_en_Administración_MBA-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-![CETYS](https://img.shields.io/badge/Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)<br>
-![CETYS](https://img.shields.io/badge/Doctor_en_educacion-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)<br>
+![CUT](https://img.shields.io/badge/Doctor_en_educacion-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
