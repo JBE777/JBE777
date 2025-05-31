@@ -22,7 +22,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
+[![Udemy](https://img.shields.io/badge/Udemy-%230056D2?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
 [![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-33000000?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
