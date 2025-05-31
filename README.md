@@ -26,9 +26,12 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/UNIVERSIDAD_MEXICANA-Uveg-99ff00?style=uni&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)<hr>
+[![Uveg](https://img.shields.io/badge/UNIVERSIDAD_MEXICANA-Uveg-99ff00?style=uni&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
+<hr>
+
 # <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 <hr>
+
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
 [![IDS](https://img.shields.io/badge/Ingenieria-de_Software-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
 [![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
@@ -52,12 +55,12 @@
 * Especializacion en E-commerce
 
 ![Cursos](https://img.shields.io/badge/Cursos_online_tomados:-99ff00.svg?style=uni&logo=gitbook&logoColor=red) <hr> 
-# <b>Udemy y Coursera</b><hr>
+# <b>Henry, Udemy y Coursera</b><hr>
 
-![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-99ff00.svg?style=for-the-badge&logo=university&logoColor=white)
+![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=university&logoColor=white)
 * Data_Science: Python, SQL y non SQL
 
-![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-3300aa.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=coursera&logoColor=blue) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
@@ -71,7 +74,7 @@
 ![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=coursera&logoColor=blue) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-99ff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-99ff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
