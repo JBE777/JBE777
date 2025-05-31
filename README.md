@@ -71,18 +71,17 @@
 ![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Python-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Python_Orientado_a_la_Electronica-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Python_TOTAL_para_Data_Science_&_Machine_Learning_en_18_Días-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Python_TOTAL_Programador_Avanzado_en_16_días-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Robótica_móvil_para_principiantes_con_ESP32-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Data_Science_aplicado_a_Negocios:_6_Casos_de_Estudio_Reales-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
+* Python Orientado a la Electronica<br>
+![Udemy](https://img.shields.io/badge/Python TOTAL para Data Science & Machine Learning en 18 Días
+* Python TOTAL Programador Avanzado en 16 días
+* Robótica móvil para principiantes con ESP32
+* Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 ![Udemy](https://img.shields.io/badge/SQL-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/SQL_Bases_de_Datos_Desde_Cero-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/SQL_Total_Domina_Bases_de_Datos_en_12_Dias-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
+* SQL Bases de Datos Desde Cero<br>
+* SQL Total Domina Bases de Datos en 12 Dias<br>
 
-<hr>
 
-* ##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
+##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
 
 [![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
 
