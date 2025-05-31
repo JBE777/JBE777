@@ -31,10 +31,10 @@
 [![IDS](https://img.shields.io/badge/Ingenieria_de_Software-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
 [![IDSC](https://img.shields.io/badge/Ingenieria_de_Sistemas_Computacionales-330000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Especialidades:-33000000?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Vision_por_computadora-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Big_Data-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Blockchain-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Internet_de_lsa_cosas-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Vision_por_computadora-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Big_Data-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Blockchain-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Internet_de_lsa_cosas-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 
 [![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Especialidades:-33000000?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
