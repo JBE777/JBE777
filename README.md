@@ -102,10 +102,10 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-%23000000.svg?style=uni&logo=esbuild&logoColor=green)
 <hr>
 
-### UABC<sub>mx</sub> / Universidad Autonoma de Baja California
-### NAU<sub>usa</sub> / Northern Arizona University
-### CETYS<sub>mx</sub> / Centro de Enseñanza Tecnica y Superior
-### CUSON<sub>mx</sub> / Centro Universitario del Estado de Sonora
+### UABC<sub>mx</sub> -> Universidad Autonoma de Baja California
+### NAU<sub>usa</sub> -> Northern Arizona University
+### CETYS<sub>mx</sub> -> Centro de Enseñanza Tecnica y Superior
+### CUSON<sub>mx</sub> -> Centro Universitario del Estado de Sonora
 <hr>
 
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
