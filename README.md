@@ -42,7 +42,6 @@
 [![IGP](https://img.shields.io/badge/Emprendimiento-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Tecnologia-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 
-
 [![II](https://img.shields.io/badge/Ingenieria_Industrial-000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
 [![IGTI](https://img.shields.io/badge/Ingenieria_Gestion_tecnologia_en_Informacion-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidades:-777777?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
@@ -51,12 +50,12 @@
 [![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%33000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%33000ee.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ff0000.svg?style=university&logo=esbuild&logoColor=white) <br>
 
-![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-%23000099.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-%33000ee.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:-%23ff0000.svg?style=university&logo=coursera&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Matrix_Algebra_for_Engineers-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Vector_Calculus_for_Engineers-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
@@ -67,7 +66,7 @@
 ![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:-%23ff0000.svg?style=university&logo=coursera&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
-![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%23000099.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%33000ee.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
