@@ -96,17 +96,18 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br>
-[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-![UABC](https://img.shields.io/badge/Ingeniero_Electrónico_2_years_incomplete-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-![UABC](https://img.shields.io/badge/Ingeniero_Topógrafo_y_Geodesta,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+* Ingeniero Electrónico(incompleta)
+* Ingeniero Topógrafo y Geodesta
+
 [![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-![NAU](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+* Bachelor of Science in Education
+
 [![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 ![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=university&logoColor=white)
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
-<br>
 
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
 * Doctor en Educación
