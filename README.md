@@ -103,9 +103,6 @@
 [![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 ![UABC](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 
-
-
-* 
 * Maestría en Administración [MBA] (CETYS-MX, graduado)
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
