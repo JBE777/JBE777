@@ -106,9 +106,8 @@
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_Industrial-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_de_recursos_humanos-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Maestría_en_Administración_MBA-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)<br>
-![CUT](https://img.shields.io/badge/Doctor_en_educacion-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-<hr>
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
+* Doctor en Educacion
 
 ![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 <br/>
