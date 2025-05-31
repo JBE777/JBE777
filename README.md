@@ -8,7 +8,7 @@
 
 ![Esbuild](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias:-99ff00.svg?style=uni&logo=gitbook&logoColor=green) 
 # <b>HTML, CSS3 y JavaScript
-</b>  
+
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 [![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
