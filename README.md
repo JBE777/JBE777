@@ -14,7 +14,7 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje_multiparadigma-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
-[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-%23008080.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-33000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
@@ -85,7 +85,7 @@
 
 * ##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
 
-[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-3300aa.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
+[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
 
 ![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
@@ -101,9 +101,16 @@
 ![UABC](https://img.shields.io/badge/Ingeniero_Electrónico_2_years_incomplete-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![UABC](https://img.shields.io/badge/Ingeniero_Topógrafo_y_Geodesta,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 [![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-![UABC](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![NAU](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+[![CETYS](https://img.shields.io/badge/Centro_de_enseñanza_tecnica_y_superior,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+![CETYS](https://img.shields.io/badge/Posgrados:-%23F9A825.svg?style=university&logo=university&logoColor=white)<br>
+![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_Industrial-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_de_recursos_humanos-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![CETYS](https://img.shields.io/badge/Maestría_en_Administración_MBA-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
+![CETYS](https://img.shields.io/badge/Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)
+![CETYS](https://img.shields.io/badge/Doctor_en_educacion-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 
-* Maestría en Administración [MBA] (CETYS-MX, graduado)
+
 * Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
