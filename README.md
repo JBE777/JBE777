@@ -90,21 +90,21 @@
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
+<hr>
 
-##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
-
-[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
-
-![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)
-
-
-* ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
+##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 [![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=Instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)<br>
+
+![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-%23000000.svg?style=uni&logo=esbuild&logoColor=green)
+<hr>
+
+# <b>UABC, NAU, CETYS Y CUSON</b>
+<hr>
+
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
