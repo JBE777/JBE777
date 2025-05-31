@@ -102,7 +102,7 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-%23000000.svg?style=uni&logo=esbuild&logoColor=green)
 <hr>
 
-# UABC<sub>mx</sub>
+# UABC<sub>mx</sub> UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
 # NAU<sub>usa<sub>
 # CETYS<sub>mx</sub> 
 # CUSON<sub>mx</sub>
