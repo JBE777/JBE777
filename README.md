@@ -102,7 +102,10 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-%23000000.svg?style=uni&logo=esbuild&logoColor=green)
 <hr>
 
-# <b>UABC<sub>MX</sub>, NAU<sub>USA</sub>, CETYS<sub>MX</sub> y CUSON<sub>MX</sub></b>
+# UABC<sub>mx</sub>
+# NAU<sub>usa<sub>
+# CETYS<sub>mx</sub> 
+# CUSON<sub>mx</sub>
 <hr>
 
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
