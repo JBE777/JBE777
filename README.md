@@ -25,57 +25,61 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-33000000?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-99ff00?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
 
-* ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
-[![IDS](https://img.shields.io/badge/Ingenieria_de-Software-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
-[![IDSC](https://img.shields.io/badge/Ingenieria_de-Sistemas_Computacionales-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
+[![IDS](https://img.shields.io/badge/Ingenieria-de_Software-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
+[![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 [![IDSC](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Vision_por_computadora-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Big_Data-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Blockchain-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Internet_de_lsa_cosas-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+* Vision por computadora
+* Big Data
+* Blockchain
+* Internet de las cosas
 
-[![IGP](https://img.shields.io/badge/Ingenieria_en-Gestion_de_Proyectos-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Industrial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Emprendimiento-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Tecnologia-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+* Industrial
+* Emprendimiento
+* Tecnologia
 
 [![II](https://img.shields.io/badge/Ingenieria-Industrial-33000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria-Gestion_tecnologia_en_Informacion-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidades:-99ff00?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Gestion_de_Desarrollo_de_software-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especialidad_en_Arquitectura_empresarial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-<hr>
+* Gestion de Desarrollo de software
+* Especialidad en Arquitectura empresarial
+* Especializacion en E-commerce
 
 ![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%330000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
-![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ff0000.svg?style=university&logo=uni&logoColor=white) <br>
+![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white)
+* Data_Science: Python, SQL y non SQL
 
-![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-%33000ee.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:-%23ff0000.svg?style=university&logo=coursera&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Matrix_Algebra_for_Engineers-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Vector_Calculus_for_Engineers-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-%23ff0000.svg?style=&logo=coursera&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Electrónica_y_Arduinos_para_tus_propios_Inventos-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE:-%23ff0000.svg?style=unversty&logo=coursera&logoColor=white)<br>
-![Coursera](https://img.shields.io/badge/El_desafío_de_Innovar_en_la_Educación_Superior-%23777777.svg?style=uni&logo=build&logoColor=white)<br>
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:-%23ff0000.svg?style=university&logo=coursera&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-3300aa.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=coursera&logoColor=white) <br>
+* Matrix Algebra for Engineers
+* Vector Calculus for Engineers
+
+![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=coursera&logoColor=white) <br>
+* Electrónica y Arduinos para tus propios Inventos
+
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=coursera&logoColor=white)<br>
+* El desafío de Innovar en la Educación Superior
+
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=coursera&logoColor=white) 
+* Sistemas Digitales: De las puertas logicas al procesador
 
 ![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%33000000.svg?style=for-the-badge&logo=university&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=es&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=build&logoColor=white) <br>
+* Curso de HTML y CSS3
+* Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
+
 ![Udemy](https://img.shields.io/badge/Python-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
 * Python Orientado a la Electronica<br>
-![Udemy](https://img.shields.io/badge/Python TOTAL para Data Science & Machine Learning en 18 Días
+* Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
+
 ![Udemy](https://img.shields.io/badge/SQL-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
