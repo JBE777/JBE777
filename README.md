@@ -1,12 +1,12 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-33000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-99ff00.svg?style=for-the-badge&logo=uni&logoColor=black)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/aprendiendo-nuevas%20tecnologias%20html%20css3%20javascript-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Esbuild](https://img.shields.io/badge/aprendiendo-nuevas%20tecnologias%20html%20css3%20javascript-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
 
 * ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
@@ -25,26 +25,26 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-99ff00?style=for-the-badge&logo=square&logoColor=white)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-99ff00?style=for-the-badge&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
 [![IDS](https://img.shields.io/badge/Ingenieria-de_Software-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
 [![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=gitbook&logoColor=red)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 * Vision por computadora
 * Big Data
 * Blockchain
 * Internet de las cosas
 
 [![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=gitbook&logoColor=red)](https://uveg.edu.mx/index.php/es/igp)<br>
 * Industrial
 * Emprendimiento
 * Tecnologia
 
 [![II](https://img.shields.io/badge/Ingenieria-Industrial-99ff00?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
 [![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especialidades:-99ff00?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especialidades:-99ff00?style=university&logo=gitbook&logoColor=red)](https://uveg.edu.mx/index.php/es/igti)<br>
 * Gestion de Desarrollo de software
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
@@ -87,9 +87,9 @@
 
 ##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
 
-[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
+[![FP](https://img.shields.io/badge/Para_aprender-Temas%20Fundamentales%20de%20Programacion-33000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)](https://extension.uveg.edu.mx/mod/page/view.php?id=446)
 
-![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Para Aprender](https://img.shields.io/badge/Para_aprender-incluyo%20las%20siguientes%20fuentes-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
@@ -98,7 +98,7 @@
 [![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=Instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br>
+![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)<br>
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
@@ -115,7 +115,7 @@
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
 * Doctor en Educación
 
-![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 <br/>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
@@ -131,7 +131,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=green)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
