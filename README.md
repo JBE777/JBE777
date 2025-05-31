@@ -103,15 +103,12 @@
 [![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 ![NAU](https://img.shields.io/badge/Bachelor_of_Science_in_Education:_Yuma,_AZ,_USA,_graduado-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 [![CETYS](https://img.shields.io/badge/Centro_de_enseñanza_tecnica_y_superior,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-![CETYS](https://img.shields.io/badge/Posgrados:-%23F9A825.svg?style=university&logo=university&logoColor=white)<br>
+![CETYS](https://img.shields.io/badge/Posgrados:-%23000000.svg?style=for-the-badge&logo=university&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_Industrial-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Especialidad_en_Administracion_de_recursos_humanos-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Maestría_en_Administración_MBA-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-![CETYS](https://img.shields.io/badge/Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)
+![CETYS](https://img.shields.io/badge/Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-%23FF0000.svg?style=for-the-badge&logo=NAU&logoColor=white)<br>
 ![CETYS](https://img.shields.io/badge/Doctor_en_educacion-%23777777.svg?style=university&logo=gitbook&logoColor=white)<br>
-
-
-* Doctor en Educación (CUT-MX, graduado-2019)
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
