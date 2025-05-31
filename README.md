@@ -51,8 +51,8 @@
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados:-99ff00.svg?style=uni&logo=gitbook&logoColor=red)  
-# <b>Udemy y Coursera</b>
+![Cursos](https://img.shields.io/badge/Cursos_online_tomados:-99ff00.svg?style=uni&logo=gitbook&logoColor=red) <hr> 
+# <b>Udemy y Coursera</b><hr>
 
 ![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-99ff00.svg?style=for-the-badge&logo=university&logoColor=white)
 * Data_Science: Python, SQL y non SQL
