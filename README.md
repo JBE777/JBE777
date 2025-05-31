@@ -26,7 +26,8 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_mexicana-uveg-99ff00?style=for-the-badge&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/UNIVERSIDAD_MEXICANA-Uveg-99ff00?style=uni&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
+# <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
 [![IDS](https://img.shields.io/badge/Ingenieria-de_Software-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
