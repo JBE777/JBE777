@@ -67,17 +67,17 @@
 ![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
 ![Coursera](https://img.shields.io/badge/Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
-![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%23aa0000.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%23ffaa00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23ffaa00.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/Python-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python-%23ffaa00.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Python_Orientado_a_la_Electronica-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Python_TOTAL_para_Data_Science_&_Machine_Learning_en_18_Días-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Python_TOTAL_Programador_Avanzado_en_16_días-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Robótica_móvil_para_principiantes_con_ESP32-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/Data_Science_aplicado_a_Negocios:_6_Casos_de_Estudio_Reales-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/SQL-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/SQL-%23ffaa00.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/SQL_Bases_de_Datos_Desde_Cero-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 ![Udemy](https://img.shields.io/badge/SQL_Total_Domina_Bases_de_Datos_en_12_Dias-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
