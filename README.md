@@ -54,36 +54,34 @@
 
 ![Cursos](https://img.shields.io/badge/Cursos_tomados-%23999900.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
-![Henry](https://img.shields.io/badge/Cursos-Henry-%23ffff00.svg?style=for-the-badge&logo=git&logoColor=white) <br>
-![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br><hr>
+![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Henry](https://img.shields.io/badge/Data_Science:_Python,_SQL_y_non_SQL-%23ffff00.svg?style=university&logo=esbuild&logoColor=white) <br>
 
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:-%230000ff.svg?style=for-the-badge&logo=gitbook&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Matrix_Algebra_for_Engineers-%230077ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Vector_Calculus_for_Engineers-%230077ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-%23000099.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY:-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Matrix_Algebra_for_Engineers-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Vector_Calculus_for_Engineers-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Electrónica_y_Arduinos_para_tus_propios_Inventos-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE:-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white)<br>
+![Coursera](https://img.shields.io/badge/El_desafío_de_Innovar_en_la_Educación_Superior-%23777777.svg?style=uni&logo=esbuild&logoColor=white)<br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:-%23000099.svg?style=for-the-badge&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
-![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-%230000ff.svg?style=uni&logo=gitbook&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/Electrónica_y_Arduinos_para_tus_propios_Inventos-%230077ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%23aa0000.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Curso_de_HTML_y_CSS3-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Maestria_en_CSS3,_Flexbox,_Grid,_SASS,_Bootstrap_5-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python_Orientado_a_la_Electronica-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python_TOTAL_para_Data_Science_&_Machine_Learning_en_18_Días-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python_TOTAL_Programador_Avanzado_en_16_días-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Robótica_móvil_para_principiantes_con_ESP32-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Data_Science_aplicado_a_Negocios:_6_Casos_de_Estudio_Reales-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/SQL-%23aa0000.svg?style=for-the-badge&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/SQL_Bases_de_Datos_Desde_Cero-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/SQL_Total_Domina_Bases_de_Datos_en_12_Dias-%23777777.svg?style=uni&logo=esbuild&logoColor=white) <br>
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE:_El_desafío_de_Innovar_en_la_Educación_Superior-%230000ff.svg?style=uni&logo=esbuild&logoColor=white)<br>
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA:_Sistemas_Digitales:_De_las_puertas_logicas_al_procesador-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY_OF_SCIENCE_AND_TECHNOLOGY-Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY_OF_SCIENCE_AND_TECHNOLOGY-Vector_Calculus_for_Engineers-%230000ff.svg?style=uni&logo=esbuild&logoColor=white) <br>
-  
-  * UNIVERSIDAD AUTONOMA DE BARCELONA: Sistemas Digitales: De las puertas lógicas al procesador 
-  * KNOWLEDGE-ACCELERATORS: From Excel to Power BI
-<br>
-
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-%23000000.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
-  * Curso de HTML5 y CSS3
-  * Maestría en CSS3-Flexbox, Grid, SASS, Bootstrap 5
-  * Python Orientado a la Electronica
-  * Python TOTAL para Data Science & Machine Learning en 18 Días
-  * Python TOTAL- Programador Avanzado en 16 días
-  * Robótica móvil para principiantes con ESP32
-  * SQL-Bases de Datos Desde Cero
-  * SQL TOTAL-Domina Bases de Datos de 0 a Avanzado en 12 Días
-  * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 <hr>
 
 * ##### <b><em>Haz click sobre el icono para aprender de la Universidad Mexicana Online de Guanajuato. Temas fundamentales de programacion.<em></b>
