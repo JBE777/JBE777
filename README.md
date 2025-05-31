@@ -10,16 +10,16 @@
 
 * ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
-[![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje_multiparadigma-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
-[![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
-[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-33000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-[![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+[![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
 * ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
-[![Kaggle](https://img.shields.io/badge/Kaggle-33000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-99ff00?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
@@ -36,51 +36,51 @@
 * Blockchain
 * Internet de las cosas
 
-[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 * Industrial
 * Emprendimiento
 * Tecnologia
 
-[![II](https://img.shields.io/badge/Ingenieria-Industrial-33000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-33000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![II](https://img.shields.io/badge/Ingenieria-Industrial-99ff00?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidades:-99ff00?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 * Gestion de Desarrollo de software
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%330000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Cursos](https://img.shields.io/badge/Cursos_online_tomados-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=black)
 
-![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-%23ffff00.svg?style=for-the-badge&logo=university&logoColor=white)
+![Henry](https://img.shields.io/badge/Cursos_Online_Web_and_Data_Science-Henry-99ff00.svg?style=for-the-badge&logo=university&logoColor=white)
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos_Online_in_all_Sciences-Coursera-3300aa.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=coursera&logoColor=blue) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
-![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=coursera&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=coursera&logoColor=blue) <br>
 * Electrónica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=coursera&logoColor=white)<br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=coursera&logoColor=blue)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=coursera&logoColor=white) 
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=coursera&logoColor=blue) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-%33000000.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/HTML_y_CSS3-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Online_in_all_sciences-Udemy-99ff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/HTML_y_CSS3-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Python-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Python-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
 * Python Orientado a la Electronica<br>
 * Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/SQL-%23ff0000.svg?style=university&logo=udemy&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/SQL-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
