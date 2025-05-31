@@ -103,7 +103,7 @@
 <hr>
 
 ## UABC<sub>mx</sub> UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
-# NAU<sub>usa<sub>
+# NAU<sub>usa<sub> NORTHERN ARIZONA UNIVERSITY
 # CETYS<sub>mx</sub> 
 # CUSON<sub>mx</sub>
 <hr>
