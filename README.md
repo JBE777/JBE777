@@ -104,7 +104,7 @@
 * Bachelor of Science in Education
 
 [![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
-[![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=university&logoColor=white)](https://www.cetys.mx/posgrado/)
+[![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=white)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
