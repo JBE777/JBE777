@@ -38,17 +38,17 @@
 
 [![IGP](https://img.shields.io/badge/Ingenieria_en_Gestion_de_Proyectos-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 [![IGP](https://img.shields.io/badge/Especialidades:-33000000?style=universidad&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Industrial-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Emprendimiento-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Tecnologia-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Industrial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Emprendimiento-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Tecnologia-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
 
 
 [![II](https://img.shields.io/badge/Ingenieria_Industrial-000000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
 [![IGTI](https://img.shields.io/badge/Ingenieria_Gestion_tecnologia_en_Informacion-000000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 [![IGTI](https://img.shields.io/badge/Especialidades:-33000000?style=university&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Gestion_de_Desarrollo_de_software-3300aa?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especialidad_en_Arquitectura_empresarial-3300aa?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-3300aa?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Gestion_de_Desarrollo_de_software-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especialidad_en_Arquitectura_empresarial-ff0000?style=universidad&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especializacion_en_E_commerce-ff0000?style=university&logo=gitbook&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
 <hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_online_tomados-%23993399.svg?style=for-the-badge&logo=gitbook&logoColor=white)
