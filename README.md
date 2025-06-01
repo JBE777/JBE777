@@ -6,7 +6,7 @@
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
+![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 # <b>HTML, CSS3 y JavaScript<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
@@ -20,13 +20,13 @@
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
 ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
-[![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-99ff00?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=gitbook&logoColor=red)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=gitbook&logoColor=gold)](https://uveg.edu.mx/index.php/es/)
 
 # <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 <hr>
@@ -54,7 +54,7 @@
 * Especializacion en E-commerce
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-990000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
+![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-990000.svg?style=for-the-badge&logo=git&logoColor=gold)
 # <b>Henry, Udemy y Coursera</b><hr>
 
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
@@ -74,7 +74,7 @@
 ![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=uni&logoColor=white) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=magenta) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=gold) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
@@ -99,7 +99,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=readthedocs&logoColor=red)<hr>
+![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=readthedocs&logoColor=gold)<hr>
 
 
 ![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=uni&logo=&logoColor=white) 
@@ -125,7 +125,7 @@
 * Doctor en Educación
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
+![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
@@ -140,7 +140,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=git&logoColor=red)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=git&logoColor=gold)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
