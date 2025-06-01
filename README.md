@@ -150,7 +150,7 @@
 ![JBE777's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
 
 
-
+<img srg="file:///C:/Users/Javier/Desktop/Im%C3%A1genes%20de%20Bing.html">
 
 
 
