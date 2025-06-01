@@ -101,7 +101,6 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
-##### <b>NAU<sub>usa</sub></b> Northern Arizona University
 ##### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
 ##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 <hr>
@@ -111,6 +110,7 @@
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
+##### <b>NAU<sub>usa</sub></b> Northern Arizona University
 [![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 * Bachelor of Science in Education
 
