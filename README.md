@@ -57,11 +57,11 @@
 ![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
 # <b>Henry, Udemy y Coursera</b><hr>
 
-![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=university&logoColor=white)
+![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
 * Data_Science: Python, SQL y non SQL
 
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=coursera&logoColor=blue) <br>
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=line&logoColor=green) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
