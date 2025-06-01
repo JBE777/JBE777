@@ -120,7 +120,6 @@
 
 ##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 
-<hr>
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
 * Doctor en Educación
 
