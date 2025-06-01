@@ -148,7 +148,7 @@
 ![JBE777's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
 <hr>
 
-<img style="font-size:10px; color:green" src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg"/>
+<img src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg" style="border: 10px solid green"/>
 
 
 
