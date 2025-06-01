@@ -101,18 +101,20 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)<hr>
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) <b>UABC<sub>mx</sub></b>
+<p style="color:green">NAU<sub>usa</sub></p>
+
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
-<p style="color:yellow">NAU<sub>usa</sub></p>
+<p style="color:blue">NAU<sub>usa</sub></p>
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>NAU<sub>usa</sub></b> 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 * Bachelor of Science in Education
 
 <p style="color:yellow">CETYS<sub>mx</sub></p>
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>CETYS<sub>mx</sub></b> 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
