@@ -101,8 +101,6 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
-##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
-<hr>
 
 ##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, 
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
@@ -120,6 +118,8 @@
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
+##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
+<hr>
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
 * Doctor en Educación
 
