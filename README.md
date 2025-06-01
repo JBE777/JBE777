@@ -100,7 +100,6 @@
 
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
-<hr>
 
 ##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, 
 ##### <b>NAU<sub>usa</sub></b> Northern Arizona University
