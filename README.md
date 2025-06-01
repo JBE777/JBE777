@@ -103,16 +103,16 @@
 
 
 ##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, 
-[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 ##### <b>NAU<sub>usa</sub></b> Northern Arizona University
-[![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+[![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 * Bachelor of Science in Education
 
 ##### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
-[![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+[![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
@@ -120,7 +120,7 @@
 
 ##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white)
 * Doctor en Educación
 
 <hr>
