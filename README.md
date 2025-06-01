@@ -102,27 +102,26 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)<hr>
 
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) <sub>UABC<sub>mx</sub></sub>
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) <sub>Mexico</sub>
 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white)<sub>NAU<sub>usa</sub></sub>
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) <sub>USA</sub>
 * Bachelor of Science in Education
 
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
-<sub>CETYS<sub>mx</sub></sub>
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <sub>Mexico</sub>
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
+
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
-<sub>CUSON<sub>mx</sub></sub>
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <sub>Mexico</sub>
 * Doctor en Educación
 <hr>
 
