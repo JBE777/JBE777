@@ -61,32 +61,32 @@
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=line&logoColor=green) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=uni&logoColor=green) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
-![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=coursera&logoColor=blue) <br>
+![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=uni&logoColor=blue) <br>
 * Electrónica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=coursera&logoColor=blue)<br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=uni&logoColor=blue)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=coursera&logoColor=blue) 
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=uni&logoColor=blue) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-99ff00.svg?style=for-the-badge&logo=university&logoColor=white) <br>
-![Udemy](https://img.shields.io/badge/HTML_y_CSS3-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-99eebb.svg?style=for-the-badge&logo=udemy&logoColor=magenta) <br>
+![Udemy](https://img.shields.io/badge/HTML_y_CSS3-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Python-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
+![Udemy](https://img.shields.io/badge/Python-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * Python Orientado a la Electronica<br>
 * Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/SQL-000000.svg?style=university&logo=udemy&logoColor=orange) <br>
+![Udemy](https://img.shields.io/badge/SQL-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
