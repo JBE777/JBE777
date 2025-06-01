@@ -146,9 +146,9 @@
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
 ![JBE777's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbe777&layout=compact&theme=gruvbox)
+<hr>
 
 ![Jacinto Urias](<img src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg"/>)
-<hr>
 
 
 
