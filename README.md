@@ -6,6 +6,8 @@
 ![banner](github-jbe777.png)
 <br/><hr/>
 
+<img src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg"/>
+<hr>
 ![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 # <b>HTML, CSS3 y JavaScript<hr>
 
@@ -94,15 +96,13 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-<img src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg"/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=Instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Instructables](https://img.shields.io/badge/Instructables-990000.svg?style=for-the-badge&logo=arduino&logoColor=)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=readthedocs&logoColor=gold)<hr>
-
+![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=readthedocs&logoColor=gold)
 
 ![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=uni&logo=&logoColor=white) 
 
