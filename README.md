@@ -105,8 +105,7 @@
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
-##### <b>NAU<sub>usa</sub></b> 
-[![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>NAU<sub>usa</sub></b> 
 * Bachelor of Science in Education
 
 ##### <b>CETYS<sub>mx</sub></b> 
