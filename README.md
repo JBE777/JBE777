@@ -61,20 +61,20 @@
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG-UNIVERSITY-99ff00.svg?style=university&logo=uni&logoColor=green) <br>
+![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
-![Coursera](https://img.shields.io/badge/PONTIFICIA-UNIVERSIDAD_CATOLICA_DE_CHILE-99ff00.svg?style=&logo=uni&logoColor=blue) <br>
+![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=uni&logoColor=white) <br>
 * Electrónica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-DE_CHILE-99ff00.svg?style=unversty&logo=uni&logoColor=blue)<br>
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=uni&logoColor=white)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD-AUTONOMA_DE_BARCELONA-99ff00.svg?style=university&logo=uni&logoColor=blue) 
+![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=uni&logoColor=white) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-99eebb.svg?style=for-the-badge&logo=udemy&logoColor=magenta) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=magenta) <br>
 ![Udemy](https://img.shields.io/badge/HTML_y_CSS3-990000.svg?style=university&logo=uni&logoColor=white) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
