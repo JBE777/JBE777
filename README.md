@@ -107,12 +107,12 @@
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
-<p style="color:blue">NAU<sub>usa</sub></p>
+<h5 style="color:blue">NAU<sub>usa</sub></h5>
 
 ![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 * Bachelor of Science in Education
 
-<p style="color:yellow">CETYS<sub>mx</sub></p>
+<h5 style="color:yellow">CETYS<sub>mx</sub></h5>
 
 ![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 <br>
@@ -121,7 +121,7 @@
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
-<p style="color:green">CUSON<sub>mx</sub></p>
+<h5 style="color:green">CUSON<sub>mx</sub></h5>
 
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 * Doctor en Educación
