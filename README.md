@@ -1,12 +1,12 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-99ff00.svg?style=for-the-badge&logo=uni&logoColor=black)
+![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-990000.svg?style=for-the-badge&logo=uni&logoColor=black)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
+![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
 # <b>HTML, CSS3 y JavaScript<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
