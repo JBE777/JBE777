@@ -101,12 +101,12 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
-##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, 
 ##### <b>NAU<sub>usa</sub></b> Northern Arizona University
 ##### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
 ##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 <hr>
 
+##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, 
 [![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
