@@ -53,7 +53,7 @@
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
 
-![Cursos](https://img.shields.io/badge/Cursos_online_tomados:-99ff00.svg?style=uni&logo=gitbook&logoColor=red) <hr> 
+![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
 # <b>Henry, Udemy y Coursera</b><hr>
 
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=university&logoColor=white)
