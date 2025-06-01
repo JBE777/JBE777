@@ -115,12 +115,12 @@
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>CUSON<sub>mx</sub></b>
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b><i>CUSON</i><sub>mx</sub></b>
 * Doctor en Educación
 
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-%23000000.svg?style=uni&logo=gitbook&logoColor=green)
+![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=green)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
