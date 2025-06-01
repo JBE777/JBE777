@@ -102,8 +102,7 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-%23000000.svg?style=uni&logo=esbuild&logoColor=green)
 <hr>
 
-#### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California
-#### <b>NAU<sub>usa</sub></b> Northern Arizona University
+#### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California, #### <b>NAU<sub>usa</sub></b> Northern Arizona University
 #### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
 #### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 <hr>
