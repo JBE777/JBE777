@@ -121,7 +121,6 @@
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-%23000000.svg?style=uni&logo=gitbook&logoColor=green)
-<hr>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
