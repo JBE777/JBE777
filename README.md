@@ -6,7 +6,7 @@
 ![banner](github-jbe777.png)
 <br/><hr/>
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias:-99ff00.svg?style=uni&logo=gitbook&logoColor=green) <hr>
+![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green) <hr>
 # <b>HTML, CSS3 y JavaScript<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
