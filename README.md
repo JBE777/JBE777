@@ -115,8 +115,8 @@
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 <p style="color:green">CUSON<sub>mx</sub></p>
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
 * Doctor en Educación
 
 <hr>
