@@ -142,7 +142,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
-![Gold Ball](<img src="file:///C:/Users/Javier/Desktop/Im%C3%A1genes%20de%20Bing.html"/>)
+<img src="file:///C:/Users/Javier/Desktop/Im%C3%A1genes%20de%20Bing.html"/>
 
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=git&logoColor=gold)<br/>
