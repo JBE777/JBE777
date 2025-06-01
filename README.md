@@ -101,7 +101,6 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion-profesional%20universitaria:-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
-##### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
 ##### <b>CUSON<sub>mx</sub></b> Centro Universitario del Estado de Sonora
 <hr>
 
@@ -114,6 +113,7 @@
 [![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 * Bachelor of Science in Education
 
+##### <b>CETYS<sub>mx</sub></b> Centro de Enseñanza Tecnica y Superior
 [![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=for-the-badge&logo=NAU&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)<br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
