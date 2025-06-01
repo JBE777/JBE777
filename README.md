@@ -105,8 +105,12 @@
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
+<p style="color:yellow">NAU<sub>usa</sub></p>
+
 ![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>NAU<sub>usa</sub></b> 
 * Bachelor of Science in Education
+
+<p style="color:yellow">CETYS<sub>mx</sub></p>
 
 ![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>CETYS<sub>mx</sub></b> 
 <br>
