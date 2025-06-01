@@ -101,9 +101,8 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)<hr>
 
-<h5 style="color:green"><sub>UABC<sub>mx</sub></sub></h5>
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) 
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) <sub>UABC<sub>mx</sub></sub>
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
