@@ -101,7 +101,7 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)
 
-[![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white)
 ##### <b>UABC<sub>mx</sub></b> Universidad Autonoma de Baja California
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
