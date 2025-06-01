@@ -101,7 +101,7 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-99ff00.svg?style=for-the-badge&logo=esbuild&logoColor=green)<hr>
 
-<p style="color:green">NAU<sub>usa</sub></p>
+<h5 style="color:green">UABC<sub>usa</sub></h5>
 
 ![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) 
 * Ingeniero Electrónico(incompleta)
