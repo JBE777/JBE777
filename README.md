@@ -94,6 +94,8 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
+<img src="https://thumbs.dreamstime.com/z/link-icon-click-hand-internet-concept-vector-illustration-isolated-white-background-127158671.jpg"/>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 [![Instructables](https://img.shields.io/badge/Instructables-%23F9A825.svg?style=for-the-badge&logo=Instructables&logoColor=black)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
