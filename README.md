@@ -27,7 +27,6 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
 [![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-99ff00?style=for-the-badge&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
-<hr>
 
 # <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 <hr>
