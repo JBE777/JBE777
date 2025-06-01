@@ -52,6 +52,7 @@
 * Gestion de Desarrollo de software
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
+<hr>
 
 ![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
 # <b>Henry, Udemy y Coursera</b><hr>
