@@ -103,27 +103,27 @@
 
 
 ![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-99ff00.svg?style=uni&logo=&logoColor=white) <sub>UABC<sub>mx</sub></sub>
+
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white <sub>NAU<sub>usa</sub></sub>
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-99FF00.svg?style=uni&logo=NAU&logoColor=white)<sub>NAU<sub>usa</sub></sub>
 * Bachelor of Science in Education
 
-<h5 style="color:yellow">CETYS<sub>mx</sub></h5>
 
 ![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
+<sub>CETYS<sub>mx</sub></sub>
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
-<h5 style="color:green">CUSON<sub>mx</sub></h5>
 
 ![CUT](https://img.shields.io/badge/CUSON-Centro_de_estudios_superiores_del_estado_de_sonora,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) 
+<sub>CUSON<sub>mx</sub></sub>
 * Doctor en Educación
-
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=green)
