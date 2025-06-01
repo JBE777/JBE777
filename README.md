@@ -26,35 +26,35 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-99ff00?style=for-the-badge&logo=gitbook&logoColor=green)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=gitbook&logoColor=red)](https://uveg.edu.mx/index.php/es/)
 
 # <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 <hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
-[![IDS](https://img.shields.io/badge/Ingenieria-de_Software-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
-[![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=gitbook&logoColor=black)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDS](https://img.shields.io/badge/Ingenieria-de_Software-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
+[![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
+[![IDSC](https://img.shields.io/badge/Especialidades:-990000?style=universidad&logo=uni&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
 * Vision por computadora
 * Big Data
 * Blockchain
 * Internet de las cosas
 
-[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Especialidades:-99ff00?style=universidad&logo=gitbook&logoColor=black)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
+[![IGP](https://img.shields.io/badge/Especialidades:-990000?style=universidad&logo=uni&logoColor=black)](https://uveg.edu.mx/index.php/es/igp)<br>
 * Industrial
 * Emprendimiento
 * Tecnologia
 
-[![II](https://img.shields.io/badge/Ingenieria-Industrial-99ff00?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-99ff00?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especialidades:-99ff00?style=university&logo=gitbook&logoColor=black)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![II](https://img.shields.io/badge/Ingenieria-Industrial-990000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
+[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
+[![IGTI](https://img.shields.io/badge/Especialidades:-990000?style=university&logo=uni&logoColor=black)](https://uveg.edu.mx/index.php/es/igti)<br>
 * Gestion de Desarrollo de software
 * Especialidad en Arquitectura empresarial
 * Especializacion en E-commerce
 <hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-99ff00.svg?style=for-the-badge&logo=gitbook&logoColor=green)
+![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-990000.svg?style=for-the-badge&logo=gitbook&logoColor=red)
 # <b>Henry, Udemy y Coursera</b><hr>
 
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
