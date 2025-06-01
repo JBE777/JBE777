@@ -109,6 +109,7 @@
 * Bachelor of Science in Education
 
 ![CETYS](https://img.shields.io/badge/CETYS-Centro_de_enseñanza_tecnica_y_superior,_Mexico-99FF00.svg?style=uni&logo=NAU&logoColor=white) <b>CETYS<sub>mx</sub></b> 
+<br>
 [![CETYS](https://img.shields.io/badge/Posgrados-99ff00.svg?style=uni&logo=gitbook&logoColor=black)](https://www.cetys.mx/posgrado/)
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
