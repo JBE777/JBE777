@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=pug&logoColor=chocolate)
+![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=pug&logoColor=dddd33)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
