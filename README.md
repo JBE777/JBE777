@@ -100,10 +100,13 @@
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-cccc00.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Instructables](https://img.shields.io/badge/Instructables-aaaaaa.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
-[![Jupyter](https://img.shields.io/badge/Jupyter-dddddd?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
-[![Spider](https://img.shields.io/badge/Spyder-dddddd?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Audacity](https://img.shields.io/badge/Audacity-000088?style=for-the-badge&logo=audacity&logoColor=red)](https://pastebin.com/u/Braulio777)
 <hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-eeee00.svg?style=for-the-badge&logo=react&logoColor=eeee00)
@@ -114,7 +117,7 @@
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=npm&logoColor=0000dd) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=netflix&logoColor=0044ff) 
 * Bachelor of Science in Education
 
 
