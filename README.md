@@ -112,7 +112,7 @@
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=hugo&logoColor=blue) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=next.js&logoColor=blue) 
 * Bachelor of Science in Education
 
 
