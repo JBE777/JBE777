@@ -76,21 +76,21 @@
 ![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=circleci&logoColor=gold) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=x&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-009900.svg?style=for-the-badge&logo=udacity&logoColor=00ff00) <br>
 
-![Udemy](https://img.shields.io/badge/Lenguaje-HTML_y_CSS3-990000.svg?style=university&logo=html5&logoColor=red) 
-![Udemy](https://img.shields.io/badge/Lenguaje-CSS3-990000.svg?style=university&logo=css3&logoColor=blue) <br>
+![Udemy](https://img.shields.io/badge/Lenguaje-HTML-990000.svg?style=university&logo=html5&logoColor=red) 
+![Udemy](https://img.shields.io/badge/Lenguaje-CSS3-0000ff.svg?style=university&logo=css3&logoColor=0000ff) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Programación-Python-990000.svg?style=university&logo=python&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=gold) <br>
 * Python Orientado a la Electronica<br>
 * Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-990000.svg?style=university&logo=mysql&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-eeee00.svg?style=university&logo=mysql&logoColor=gold) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
@@ -99,52 +99,51 @@
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-FFffff.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-ffffff.svg?style=for-the-badge&logo=esbuild&logoColor=red)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
+[![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/Instructables-cccc00.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
+[![Jupyter](https://img.shields.io/badge/Jupyter-dddddd?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Spider](https://img.shields.io/badge/Spyder-dddddd?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
+<hr/>
 
+![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-eeee00.svg?style=for-the-badge&logo=react&logoColor=eeee00)
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=uni&logoColor=white)
-
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=lin&logo=udacity&logoColor=00dd00) 
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-008800.svg?style=lin&logo=udacity&logoColor=00ff00) 
 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=next.js&logoColor=blue) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=npm&logoColor=0000dd) 
 * Bachelor of Science in Education
 
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=ionic&logoColor=ffff00) 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-eeee00.svg?style=uni&logo=ionic&logoColor=eeee00) 
 <br>
-[![CETYS](https://img.shields.io/badge/Posgrados-990000.svg?style=uni&logo=uni&logoColor=black)](https://www.cetys.mx/posgrado/)
-
 * Especialidad en Administración Industrial<br>
 * Especialidad en Administración de recursos humanos
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=udacity&logoColor=green) 
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-008800.svg?style=uni&logo=udacity&logoColor=00ff00) 
 * Doctor en Educación
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-990000.svg?style=for-the-badge&logo=uni&logoColor=gold)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
-![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-00aa00.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-00aa00?style=for-the-badge&logo=fastapi&logoColor=00aa00)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
 [![Streamlit](https://img.shields.io/badge/Api-Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=red)](https://www.youtube.com/watch?v=6MpGhlVXUiw)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-%23F9A825.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-dddd00.svg?style=for-the-badge&logo=pytest&logoColor=red)
 ![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=blue)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
-
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
