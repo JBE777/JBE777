@@ -63,7 +63,7 @@
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
 ![Coursera](https://img.shields.io/badge/Math-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=c&logoColor=gold)
-( $\lim\limits_{n \to \infty} \frac{1}{2^n} i\bar z$) <br>
+($\lim\limits_{n \to \infty} \frac{1}{2^n} i\bar z$) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
