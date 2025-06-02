@@ -75,7 +75,7 @@
 ![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=esbuild&logoColor=gold) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=uni&logoColor=red) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=42&logoColor=red) <br>
 
 ![Udemy](https://img.shields.io/badge/Programación-HTML_y_CSS3-990000.svg?style=university&logo=html5&logoColorred) <br>
 * Curso de HTML y CSS3
