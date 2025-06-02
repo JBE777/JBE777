@@ -112,11 +112,11 @@
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=e&logoColor=blue) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=hugo&logoColor=blue) 
 * Bachelor of Science in Education
 
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=arc&logoColor=ffff00) 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=ionic&logoColor=ffff00) 
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-990000.svg?style=uni&logo=uni&logoColor=black)](https://www.cetys.mx/posgrado/)
 
@@ -125,7 +125,7 @@
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=c&logoColor=green) 
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=udacity&logoColor=green) 
 * Doctor en Educación
 <hr>
 
