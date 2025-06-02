@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=uni&logoColor=black)
+![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=pug&logoColor=yellow)
 
 ![banner](github-jbe777.png)
 <br/><hr/>
@@ -77,18 +77,18 @@
 
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=uni&logoColor=red) <br>
 
-![Udemy](https://img.shields.io/badge/Programación-HTML_y_CSS3-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Programación-HTML_y_CSS3-990000.svg?style=university&logo=html5&logoColorred) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Programación-Python-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Programación-Python-990000.svg?style=university&logo=python&logoColor=gold) <br>
 * Python Orientado a la Electronica<br>
 * Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-SQL-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Base_de_Datos-SQL-990000.svg?style=university&logo=mysql&logoColor=blue) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
