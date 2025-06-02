@@ -144,7 +144,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=git&logoColor=gold)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=travis&logoColor=ffffff)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
