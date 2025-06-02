@@ -62,20 +62,20 @@
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
-![Coursera](https://img.shields.io/badge/Math-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
+![Coursera](https://img.shields.io/badge/Math-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=ubuntu&logoColor=gold) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
-![Coursera](https://img.shields.io/badge/Arduino-PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=esbuild&logoColor=gold) <br>
+![Coursera](https://img.shields.io/badge/Arduino-PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=ea&logoColor=gold) <br>
 * Electrónica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/Educacion-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=esbuild&logoColor=gold)<br>
+![Coursera](https://img.shields.io/badge/Educacion-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=e&logoColor=gold)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=esbuild&logoColor=gold) 
+![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=d&logoColor=gold) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=pug&logoColor=red) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=x&logoColor=gold) <br>
 
 ![Udemy](https://img.shields.io/badge/Programación-HTML_y_CSS3-990000.svg?style=university&logo=html5&logoColorred) <br>
 * Curso de HTML y CSS3
@@ -88,7 +88,7 @@
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-SQL-990000.svg?style=university&logo=mysql&logoColor=blue) <br>
+![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-990000.svg?style=university&logo=mysql&logoColor=gold) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
@@ -110,7 +110,7 @@
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=google&logoColor=blue) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=esbuild&logoColor=blue) 
 * Bachelor of Science in Education
 
 
@@ -133,10 +133,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
-[![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.youtube.com/watch?v=6MpGhlVXUiw)
+[![Streamlit](https://img.shields.io/badge/Api-Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=red)](https://www.youtube.com/watch?v=6MpGhlVXUiw)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%23F9A825.svg?style=for-the-badge&logo=prettier&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=blue)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
