@@ -62,32 +62,33 @@
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
-![Coursera](https://img.shields.io/badge/THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=uni&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Math-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
 * Matrix Algebra for Engineers
 * Vector Calculus for Engineers
 
-![Coursera](https://img.shields.io/badge/PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=uni&logoColor=white) <br>
+![Coursera](https://img.shields.io/badge/Arduino-PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=esbuild&logoColor=gold) <br>
 * Electrónica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=uni&logoColor=white)<br>
+![Coursera](https://img.shields.io/badge/Educacion-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=esbuild&logoColor=gold)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=uni&logoColor=white) 
+![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=esbuild&logoColor=gold) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=gold) <br>
-![Udemy](https://img.shields.io/badge/HTML_y_CSS3-990000.svg?style=university&logo=uni&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=uni&logoColor=red) <br>
+
+![Udemy](https://img.shields.io/badge/Programación-HTML_y_CSS3-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Python-990000.svg?style=university&logo=uni&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Programación-Python-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
 * Python Orientado a la Electronica<br>
 * Python TOTAL para Data Science & Machine Learning en 18 Días
 * Python TOTAL Programador Avanzado en 16 días
 * Robótica móvil para principiantes con ESP32
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales
 
-![Udemy](https://img.shields.io/badge/SQL-990000.svg?style=university&logo=uni&logoColor=white) <br>
+![Udemy](https://img.shields.io/badge/Base_de_Datos-SQL-990000.svg?style=university&logo=esbuild&logoColor=gold) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
 
@@ -96,24 +97,24 @@
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-990000.svg?style=for-the-badge&logo=arduino&logoColor=)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
+[![YouTube](https://img.shields.io/badge/YouTube-FFffff.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
+[![Instructables](https://img.shields.io/badge/Instructables-ffffff.svg?style=for-the-badge&logo=esbuild&logoColor=red)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)<hr/>
 
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=readthedocs&logoColor=gold)
+![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=uni&logoColor=white)
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=uni&logo=&logoColor=white) 
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=lin&logo=udemy&logoColor=green) 
 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=uni&logo=NAU&logoColor=white) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=google&logoColor=blue) 
 * Bachelor of Science in Education
 
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=NAU&logoColor=white) 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=ubuntu&logoColor=gold) 
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-990000.svg?style=uni&logo=uni&logoColor=black)](https://www.cetys.mx/posgrado/)
 
@@ -122,11 +123,11 @@
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=uni&logoColor=white) 
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=udemy&logoColor=green) 
 * Doctor en Educación
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
+![Tecnologias](https://img.shields.io/badge/Estudiadas-tecnologias-990000.svg?style=for-the-badge&logo=uni&logoColor=gold)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
 ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=black)
