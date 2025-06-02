@@ -21,6 +21,21 @@
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
 ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{30pt}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{2pt}
+\lhead{\includegraphics[width=1cm]{example-image-a}}
+\rhead{}
+\lfoot{ABC}
+\rfoot{\thepage/\pageref{LastPage}}
+\begin{document}
+\section{First section}
+\subsection{One}
+\lipsum[1-3]
+\end{document}
+
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
