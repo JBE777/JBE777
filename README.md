@@ -64,7 +64,6 @@
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
 ![Coursera](https://img.shields.io/badge/Math-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=c&logoColor=gold)<br>
 * Matrix Algebra for Engineers
-$\lim\limits_{n \to \infty} \frac{1}{2^n} i\bar z$
 * Vector Calculus for Engineers
 
 ![Coursera](https://img.shields.io/badge/Arduino-PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=ea&logoColor=gold) <br>
