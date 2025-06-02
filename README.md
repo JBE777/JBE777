@@ -106,17 +106,17 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-990000.svg?style=for-the-badge&logo=uni&logoColor=white)
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=lin&logo=udemy&logoColor=green) 
+![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-990000.svg?style=lin&logo=udacity&logoColor=00dd00) 
 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=esbuild&logoColor=blue) 
+![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-990000.svg?style=ubu&logo=e&logoColor=blue) 
 * Bachelor of Science in Education
 
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=ubuntu&logoColor=gold) 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=arc&logoColor=ffff00) 
 <br>
 [![CETYS](https://img.shields.io/badge/Posgrados-990000.svg?style=uni&logo=uni&logoColor=black)](https://www.cetys.mx/posgrado/)
 
@@ -125,7 +125,7 @@
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=udemy&logoColor=green) 
+![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-990000.svg?style=uni&logo=c&logoColor=green) 
 * Doctor en Educación
 <hr>
 
@@ -144,7 +144,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
 
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=travis&logoColor=990000)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas%20de-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
