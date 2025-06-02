@@ -28,7 +28,7 @@
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=gitbook&logoColor=gold)](https://uveg.edu.mx/index.php/es/)
+[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=udacity&logoColor=gold)](https://uveg.edu.mx/index.php/es/)
 
 # <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
 <hr>
@@ -93,11 +93,9 @@
 ![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-eeee00.svg?style=university&logo=mysql&logoColor=gold) <br>
 * SQL Bases de Datos Desde Cero<br>
 * SQL Total Domina Bases de Datos en 12 Dias<br>
-
 <hr>
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
-
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 [![Instructables](https://img.shields.io/badge/Instructables-aaaaaa.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
