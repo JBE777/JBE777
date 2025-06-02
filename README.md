@@ -73,7 +73,7 @@
 ![Coursera](https://img.shields.io/badge/Educacion-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=e&logoColor=orange)<br>
 * El desafío de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=d&logoColor=orange) 
+![Coursera](https://img.shields.io/badge/Electronica_Digital-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=circleci&logoColor=gold) 
 * Sistemas Digitales: De las puertas logicas al procesador
 
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg?style=for-the-badge&logo=x&logoColor=gold) <br>
