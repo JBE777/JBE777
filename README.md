@@ -9,8 +9,6 @@
 
 ![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 
-$$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s $$
-
 # <b>HTML, CSS3 y JavaScript</b>
 
 
@@ -146,7 +144,9 @@ $$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty -
 ![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=blue)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge/&logo=c%2B%2B&logoColor=white)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)<hr/>
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+
+$$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s $$
 
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
