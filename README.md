@@ -149,7 +149,9 @@
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
 
-$$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s $$
+$$ 
+\int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s 
+$$
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
