@@ -1,10 +1,11 @@
-$$ 
-\int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s 
-$$
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)
+
+$$ 
+\int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s 
+$$
 
 ![banner](github-jbe777.png)
 <br/><hr/>
