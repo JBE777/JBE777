@@ -9,7 +9,8 @@
 
 ![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 
-$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s $
+$$ \int_0^\infty {e}^{-st}dt = [{e}^{-st}/(-s)]_0^\infty = (1/-s)[1/{e}^\infty - 1/e^0] = (1/-s)[0 - 1] = 1/s $$
+
 # <b>HTML, CSS3 y JavaScript</b>
 
 
