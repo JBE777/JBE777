@@ -12,7 +12,7 @@ $$
 <br/><hr/>
 
 
-![Esbuild](https://img.shields.io/badge/Aprendiendo_desarrollo_web-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
+![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
 
 # <b>HTML, CSS3 y JavaScript</b>
 
