@@ -41,7 +41,7 @@ $$
 1 & 0 & \cdots & 0\\
 0 & A & \cdots & 0\\
 \vdots & \vdots & \ddots & \vdots\\
-0 & 0 & \cdots & AB....n
+0 & 0 & \cdots & AB....N
 \end{pmatrix}
 \end{equation}
 $$
