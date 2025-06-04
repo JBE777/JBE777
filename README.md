@@ -5,19 +5,17 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
 
 $$ 
-\int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}
-$$
+\int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}$$
 
-$
-\[\begin{bmatrix}
+$$\[\begin{bmatrix}
 a & b & c \\
 d & e & f \\
 g & h & i \end{bmatrix}\]
-$
+$$
+
 
 ![banner](github-jbe777.png)
 <br/><hr/>
-
 
 ![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
 
