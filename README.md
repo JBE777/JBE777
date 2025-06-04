@@ -7,6 +7,32 @@
 $$ 
 \int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}$$
 
+## Contador sincronico de 5-bits, usando flip-flops JK o T
+$$
+\begin{equation}
+\begin{vmatrix}
+T_A=1 & 0 &  0    &     0   &   0\\
+0 & T_B=A &  0    &     0   &   0\\
+0 &   0  & T_C=AB &     0   &   0\\
+0 &   0  &   0    & T_D=ABC &   0\\
+0 &   0  &   0    &     0   & T_E= ABCD
+\end{vmatrix}
+\end{equation}
+$$
+
+### Representado una matriz diagonal el comportamiento resultante para n-bits
+$$
+\begin{equation}
+\begin{vmatrix}
+1 & 0 & 0  & 0   & 0\\
+0 & A & 0  & 0   & 0\\
+0 & 0 & AB & 0   & 0\\
+0 & 0 & 0  & ABC & 0\\
+0 & 0 & 0  & 0   & ABCD
+\end{vmatrix}
+\end{equation}
+$$
+
 ## Contador sincronico de n-bits, usando flip-flops JK o T
 
 $$
@@ -19,38 +45,6 @@ $$
 \end{pmatrix}
 \end{equation}
 $$
-## Contador sincronico de 5-bits, usando flip-flops JK o T
-$$
-\begin{equation}
-\begin{vmatrix}
-T_A\\ T_B\\ T_C\\ T_D\\ T_E
-\end{vmatrix}
-\end{equation} = 
-\begin{equation}
-\begin{vmatrix}
-1 & 0 & 0  & 0   & 0\\
-0 & A & 0  & 0   & 0\\
-0 & 0 & AB & 0   & 0\\
-0 & 0 & 0  & ABC & 0\\
-0 & 0 & 0  & 0   & ABCD
-\end{vmatrix}
-\end{equation}
-$$
-
-$$
-\begin{equation}
-\begin{vmatrix}
-1 & 0 & 0  & 0   & 0\\
-0 & A & 0  & 0   & 0\\
-0 & 0 & AB & 0   & 0\\
-0 & 0 & 0  & ABC & 0\\
-0 & 0 & 0  & 0   & ABCD
-\end{vmatrix}
-\end{equation}
-$$
-
-
-
 ![banner](github-jbe777.png)
 <br/><hr/>
 
