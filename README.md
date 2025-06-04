@@ -8,7 +8,7 @@ $$
 \int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}
 $$
 
-$$
+
 \[
 \begin{bmatrix}
 a & b & c \\
@@ -16,7 +16,7 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \]
-$$
+
 
 ![banner](github-jbe777.png)
 <br/><hr/>
