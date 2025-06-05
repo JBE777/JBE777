@@ -127,23 +127,25 @@ $$ -->
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=gold) <br>
-* Python Orientado a la Electronica<br>
-* Python TOTAL para Data Science & Machine Learning en 18 Días
-* Python TOTAL Programador Avanzado en 16 días
-* Robótica móvil para principiantes con ESP32
-* Data Science aplicado a Negocios: 6 Casos de Estudio Reales
+![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=gold)
+* Orientado a la Electronica
+* TOTAL para Data Science & Machine Learning en 18 Días
+* TOTAL Programador Avanzado en 16 días
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-eeee00.svg?style=university&logo=mysql&logoColor=gold) <br>
-* SQL Bases de Datos Desde Cero<br>
-* SQL Total Domina Bases de Datos en 12 Dias<br>
-<hr>
+* Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
+
+![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-eeee00.svg?style=university&logo=mysql&logoColor=gold) 
+* Bases de Datos Desde Cero
+* Total Domina Bases de Datos en 12 Dias
+
+![Udemy](https://img.shields.io/badge/Programación-Arduino-009900.svg?style=esp32&logo=arduino&logoColor=gold)
+* Robótica móvil para principiantes con ESP32
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 [![Instructables](https://img.shields.io/badge/Instructables-aaaaaa.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Arduino-009900?style=for-the-badge&logo=Arduino&logoColor=black)](https://pastebin.com/u/Braulio777)
 [![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
@@ -162,11 +164,14 @@ $$ -->
 ![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=netflix&logoColor=0044ff) 
 * Bachelor of Science in Education
 
-
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-eeee00.svg?style=uni&logo=ionic&logoColor=eeee00) 
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=esbuild&logoColor=eeee00) 
 <br>
-* Especialidad en Administración Industrial<br>
-* Especialidad en Administración de recursos humanos
+
+* Posgrado en Administración Industrial
+* Posgrado en Administración de Recursos Humanos
+
+![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=esbuild&logoColor=eeee00) 
+<br>
 * Maestría en Administración(MBA)
 
 
