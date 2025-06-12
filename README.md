@@ -2,7 +2,7 @@
 ===================================================================================================================================
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.youtube.com/watch?v=Jp0lPj2-DQA&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html)
 
 <!-- $$ 
 \int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}$$
