@@ -161,17 +161,16 @@ $$ -->
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=netflix&logoColor=0044ff) 
+![NAU](https://img.shields.io/badge/NAU-cccc00.svg?style=ubu&logo=&logoColor=white) 
+![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=&logoColor=0044ff) 
 * Bachelor of Science in Education
 
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=esbuild&logoColor=eeee00) 
+![CETYS](https://img.shields.io/badge/CETYS-ffff00.svg?style=uni&logo=&logoColor=white) 
+![CETYS](https://img.shields.io/badge/Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=&logoColor=eeee00) 
 <br>
 
 * Posgrado en Administración Industrial
 * Posgrado en Administración de Recursos Humanos
-
-![CETYS](https://img.shields.io/badge/CETYS-Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=esbuild&logoColor=eeee00) 
-<br>
 * Maestría en Administración(MBA)
 
 
