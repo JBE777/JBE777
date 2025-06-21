@@ -120,37 +120,37 @@ $$ -->
 ![Coursera](https://img.shields.io/badge/Sistemas_Digitales-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=circleci&logoColor=gold) 
 * De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-009900.svg?style=for-the-badge&logo=udacity&logoColor=00ff00) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-bb00bb.svg?style=for-the-badge&logo=udemy&logoColor=aa00ee) <br>
 
 ![Udemy](https://img.shields.io/badge/Lenguaje-HTML-990000.svg?style=university&logo=html5&logoColor=red) 
 ![Udemy](https://img.shields.io/badge/Lenguaje-CSS3-0000ff.svg?style=university&logo=css3&logoColor=0000ff) <br>
 * Curso de HTML y CSS3
 * Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=gold)
+![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=00eeff)
 * Orientado a la Electronica
 * TOTAL para Data Science & Machine Learning en 18 Días
 * TOTAL Programador Avanzado en 16 días
 
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-eeee00.svg?style=university&logo=mysql&logoColor=gold) 
+![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-00ddbb.svg?style=university&logo=mysql&logoColor=eeee00) 
 * Bases de Datos Desde Cero
 * Total Domina Bases de Datos en 12 Dias
 
-![Udemy](https://img.shields.io/badge/Programación-Arduino-009900.svg?style=esp32&logo=arduino&logoColor=gold)
+![Udemy](https://img.shields.io/badge/Programación-Arduino-009999.svg?style=esp32&logo=arduino&logoColor=00eeee)
 * Robótica móvil para principiantes con ESP32
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 [![Instructables](https://img.shields.io/badge/Instructables-aaaaaa.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
-[![Arduino](https://img.shields.io/badge/Arduino-009900?style=for-the-badge&logo=Arduino&logoColor=black)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=black)](https://pastebin.com/u/Braulio777)
 [![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)](https://pastebin.com/u/Braulio777)
-[![Audacity](https://img.shields.io/badge/Audacity-000088?style=for-the-badge&logo=audacity&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Audacity](https://img.shields.io/badge/Audacity-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://pastebin.com/u/Braulio777)
 <hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-eeee00.svg?style=for-the-badge&logo=react&logoColor=eeee00)
