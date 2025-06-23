@@ -2,49 +2,8 @@
 ===================================================================================================================================
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html)Click on: Latex
 
-<!-- $$ 
-\int_0^\infty {e}^{-st}dt = |\frac{e^{-st}}{-s}|_0^\infty = (\frac{1}{-s})|{e}^{-st}|_0^\infty = (\frac{1}{-s})|\frac{1}{e^{\infty}} - \frac{1}{e^{0}}| = (\frac{1}{-s})|0 - 1| = \frac{1}{s}$$
-
-## Contador sincronico de 5-bits, usando flip-flops JK o T
-$$
-\begin{equation}
-\begin{vmatrix}
-T_A=1 & 0 &  0    &     0   &   0\\
-0 & T_B=A &  0    &     0   &   0\\
-0 &   0  & T_C=AB &     0   &   0\\
-0 &   0  &   0    & T_D=ABC &   0\\
-0 &   0  &   0    &     0   & T_E= ABCD
-\end{vmatrix}
-\end{equation}
-$$
-
-### Representado una matriz diagonal el comportamiento resultante para n-bits
-$$
-\begin{equation}
-\begin{vmatrix}
-1 & 0 & 0  & 0   & 0\\
-0 & A & 0  & 0   & 0\\
-0 & 0 & AB & 0   & 0\\
-0 & 0 & 0  & ABC & 0\\
-0 & 0 & 0  & 0   & ABCD
-\end{vmatrix}
-\end{equation}
-$$
-
-## Contador sincronico de n-bits, usando flip-flops JK o T
-
-$$
-\begin{equation}
-\begin{pmatrix}
-1 & 0 & \cdots & 0\\
-0 & A & \cdots & 0\\
-\vdots & \vdots & \ddots & \vdots\\
-0 & 0 & \cdots & AB....N
-\end{pmatrix}
-\end{equation}
-$$ -->
 ![banner](github-jbe777.png)
 <br/><hr/>
 
@@ -70,7 +29,6 @@ $$ -->
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-990000.svg?style=for-the-badge&logo=git&logoColor=gold)
 # <b>Henry, Udemy y Coursera</b><hr>
 
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
