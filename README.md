@@ -122,24 +122,30 @@ $$ -->
 
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-bb00bb.svg?style=for-the-badge&logo=udemy&logoColor=aa00ee) <br>
 
-![Udemy](https://img.shields.io/badge/Lenguaje-HTML-990000.svg?style=university&logo=html5&logoColor=red) 
-![Udemy](https://img.shields.io/badge/Lenguaje-CSS3-0000ff.svg?style=university&logo=css3&logoColor=0000ff) <br>
+<b>Cursos HTML y CSS3</b>
 * Curso de HTML y CSS3
-* Maestria en CSS3, Flexbox, Grid, SASS, Bootstrap 5
+* Maestría en CSS3, Flexbox, Grid, SASS, Bootstrap 5
 
-![Udemy](https://img.shields.io/badge/Programación-Python-eeee00.svg?style=university&logo=python&logoColor=00eeff)
+<b>Cursos de Python</b>
+
 * Orientado a la Electronica
 * TOTAL para Data Science & Machine Learning en 18 Días
 * TOTAL Programador Avanzado en 16 días
 
 * Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
 
-![Udemy](https://img.shields.io/badge/Base_de_Datos-MySQL-00ddbb.svg?style=university&logo=mysql&logoColor=eeee00) 
+<b>Cursos de MySQL</b>
+
 * Bases de Datos Desde Cero
 * Total Domina Bases de Datos en 12 Dias
 
-![Udemy](https://img.shields.io/badge/Programación-Arduino-009999.svg?style=esp32&logo=arduino&logoColor=00eeee)
+<b>Curso de Arduino</b>
+
 * Robótica móvil para principiantes con ESP32
+
+<b>Curso de Power BI</b>
+
+* Maestría en Power BI
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
