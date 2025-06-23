@@ -114,11 +114,11 @@ $$ -->
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
 * Electronica y Arduinos para tus propios Inventos
 
-![Coursera](https://img.shields.io/badge/El_desafio_de_Innovar-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=e&logoColor=gold)<br>
-* En la Educación Superior
+<b>UNIVERSIDAD DE CHILE</b>
+* El desafio de Innovar en la Educación Superior
 
-![Coursera](https://img.shields.io/badge/Sistemas_Digitales-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=circleci&logoColor=gold) 
-* De las puertas logicas al procesador
+<b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
+* Sistemas Digitales: desde las puertas logicas al procesador
 
 ![Udemy](https://img.shields.io/badge/Cursos_Udemy-gold.svg?style=for-the-badge&logo=udemy&logoColor=aa00ff) <br>
 
