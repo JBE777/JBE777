@@ -106,13 +106,13 @@ $$ -->
 * Data_Science: Python, SQL y non SQL
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
-![Coursera](https://img.shields.io/badge/Math_for_Engineers-THE_HONG_KONG_UNIVERSITY-990000.svg?style=university&logo=mega&logoColor=gold)
-* Matrix Algebra 
-* Vector Calculus
-* Differential Equations 
+<b>THE HONG KONG UNIVERSITY</b>
+* Math for Engineers: Matrix Algebra 
+* Math for Engineers: Vector Calculus
+* Math for Engineers: Differential Equations 
 
-![Coursera](https://img.shields.io/badge/Electronica_y_Arduinos-PONTIFICIA_UNIVERSIDAD_CATOLICA_DE_CHILE-990000.svg?style=&logo=ea&logoColor=gold) <br>
-* Para tus propios Inventos
+<b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
+* Electronica y Arduinos para tus propios Inventos
 
 ![Coursera](https://img.shields.io/badge/El_desafio_de_Innovar-UNIVERSIDAD_DE_CHILE-990000.svg?style=unversty&logo=e&logoColor=gold)<br>
 * En la Educación Superior
@@ -120,7 +120,7 @@ $$ -->
 ![Coursera](https://img.shields.io/badge/Sistemas_Digitales-UNIVERSIDAD_AUTONOMA_DE_BARCELONA-990000.svg?style=university&logo=circleci&logoColor=gold) 
 * De las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-bb00bb.svg?style=for-the-badge&logo=udemy&logoColor=aa00ee) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Udemy-gold.svg?style=for-the-badge&logo=udemy&logoColor=aa00ff) <br>
 
 <b>Cursos HTML y CSS3</b>
 * Curso de HTML y CSS3
@@ -159,28 +159,25 @@ $$ -->
 [![Audacity](https://img.shields.io/badge/Audacity-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://pastebin.com/u/Braulio777)
 <hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-profesional%20universitaria-eeee00.svg?style=for-the-badge&logo=react&logoColor=eeee00)
+![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=aaaa00)
 
-![UABC](https://img.shields.io/badge/UABC-Universidad_Autonoma_de_Baja_California,_Mexico-008800.svg?style=lin&logo=udacity&logoColor=00ff00) 
+<b>UABC: Universidad Autonoma de Baja California, Mexico</b>
 
 * Ingeniero Electrónico(incompleta)
 * Ingeniero Topógrafo y Geodesta
 
 
-![NAU](https://img.shields.io/badge/NAU-cccc00.svg?style=ubu&logo=&logoColor=white) 
-![NAU](https://img.shields.io/badge/Northern_Arizona_University,_USA-000099.svg?style=ubu&logo=&logoColor=0044ff) 
+<b>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education
 
-![CETYS](https://img.shields.io/badge/CETYS-ffff00.svg?style=uni&logo=&logoColor=white) 
-![CETYS](https://img.shields.io/badge/Centro_de_Enseñanza_Tecnica_y_Superior,_Mexico-990000.svg?style=uni&logo=&logoColor=eeee00) 
-<br>
+<b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 
 * Posgrado en Administración Industrial
 * Posgrado en Administración de Recursos Humanos
 * Maestría en Administración(MBA)
 
 
-![CUT](https://img.shields.io/badge/CUSON-Centro_de_Estudios_Superiores_del_Estado_de_Sonora,_Mexico-008800.svg?style=uni&logo=udacity&logoColor=00ff00) 
+<b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación
 <hr>
 
