@@ -70,35 +70,6 @@ $$ -->
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato (Uveg) barata y de calidad.<em></b>
-[![Uveg](https://img.shields.io/badge/universidad_del_estado_de_guanajuato:_MX-Uveg-990000?style=for-the-badge&logo=udacity&logoColor=gold)](https://uveg.edu.mx/index.php/es/)
-
-# <b>UNIVERSIDAD DEL ESTADO DE GUANAJUATO(Uveg)</b>
-<hr>
-
-##### <b><em>Haz click sobre cada icono para aprender de la Universidad Mexicana Online de Guanajuato. Te ofrece 5 ingenierias.<em></b>
-[![IDS](https://img.shields.io/badge/Ingenieria-de_Software-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-ids)<br>
-[![IDSC](https://img.shields.io/badge/Ingenieria-de_Sistemas_Computacionales-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-[![IDSC](https://img.shields.io/badge/Especialidades:-990000?style=universidad&logo=uni&logoColor=white)](https://uveg.edu.mx/index.php/es/info-isc)<br>
-* Vision por computadora
-* Big Data
-* Blockchain
-* Internet de las cosas
-
-[![IGP](https://img.shields.io/badge/Ingenieria-en_Gestion_de_Proyectos-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igp)<br>
-[![IGP](https://img.shields.io/badge/Especialidades:-990000?style=universidad&logo=uni&logoColor=black)](https://uveg.edu.mx/index.php/es/igp)<br>
-* Industrial
-* Emprendimiento
-* Tecnologia
-
-[![II](https://img.shields.io/badge/Ingenieria-Industrial-990000?style=for-the-badge&logo=universidad&logoColor=white)](https://uveg.edu.mx/index.php/es/ingenieria-industrial)<br>
-[![IGTI](https://img.shields.io/badge/Ingenieria-en_Gestion_de_tecnologia_en_Informacion-990000?style=for-the-badge&logo=university&logoColor=white)](https://uveg.edu.mx/index.php/es/igti)<br>
-[![IGTI](https://img.shields.io/badge/Especialidades:-990000?style=university&logo=uni&logoColor=black)](https://uveg.edu.mx/index.php/es/igti)<br>
-* Gestion de Desarrollo de software
-* Especialidad en Arquitectura empresarial
-* Especializacion en E-commerce
-<hr>
-
 ![Cursos](https://img.shields.io/badge/Cursos_online-tomados:-990000.svg?style=for-the-badge&logo=git&logoColor=gold)
 # <b>Henry, Udemy y Coursera</b><hr>
 
@@ -122,29 +93,16 @@ $$ -->
 
 ![Udemy](https://img.shields.io/badge/Cursos_Udemy-gold.svg?style=for-the-badge&logo=udemy&logoColor=aa00ff) <br>
 
-<b>Cursos HTML y CSS3</b>
+<b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
 * Curso de HTML y CSS3
 * Maestría en CSS3, Flexbox, Grid, SASS, Bootstrap 5
-
-<b>Cursos de Python</b>
-
-* Orientado a la Electronica
-* TOTAL para Data Science & Machine Learning en 18 Días
-* TOTAL Programador Avanzado en 16 días
-
-* Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
-
-<b>Cursos de MySQL</b>
-
-* Bases de Datos Desde Cero
-* Total Domina Bases de Datos en 12 Dias
-
-<b>Curso de Arduino</b>
-
-* Robótica móvil para principiantes con ESP32
-
-<b>Curso de Power BI</b>
-
+* Python Orientado a la Electronica
+* Python TOTAL para Data Science & Machine Learning en 18 Días
+* Python TOTAL Programador Avanzado en 16 días
+* Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
+* MySQL para Bases de Datos Desde Cero
+* MySQL Total Domina Bases de Datos en 12 Dias
+* Arduino para Robótica móvil para principiantes con ESP32
 * Maestría en Power BI
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
@@ -181,21 +139,9 @@ $$ -->
 * Doctor en Educación
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
-
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=gold)](https://www.youtube.com/codingwithestefania)
-![MySQL](https://img.shields.io/badge/mysql-00aa00.svg?style=for-the-badge&logo=mysql&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/API-FastAPI-00aa00?style=for-the-badge&logo=fastapi&logoColor=00aa00)](https://www.youtube.com/watch?v=Y2k-mBk19LY&list=PL6xV3OpvkyrjKvi2YfQlba93WrGb38c5L)
-[![Streamlit](https://img.shields.io/badge/Api-Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=red)](https://www.youtube.com/watch?v=6MpGhlVXUiw)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-dddd00.svg?style=for-the-badge&logo=pytest&logoColor=red)
-![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=blue)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge/&logo=c%2B%2B&logoColor=white)<hr>
+![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
-
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
