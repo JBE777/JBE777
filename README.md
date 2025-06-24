@@ -67,6 +67,7 @@
 * Master Data Management Fundamentals
 * Mastering Data Science and Machine Learning Fundamentals
 * Master en Machine Learning-Aprende Python y R desde cero
+* Master en Arduino IoT Internet of Things y mucho más!
 
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
