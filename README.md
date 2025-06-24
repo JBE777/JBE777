@@ -2,10 +2,10 @@
 ===================================================================================================================================
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html)Click on: Latex
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) <i>Click on: Latex</i>
 
 ![banner](github-jbe777.png)
-<br/><hr/>
+<br/>
 
 ![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
 
