@@ -62,6 +62,10 @@
 * MySQL Total Domina Bases de Datos en 12 Dias
 * Arduino para Robótica móvil para principiantes con ESP32
 * Maestría en Power BI
+* Master Data Management Fundamentals
+* Mastering Data Science and Machine Learning Fundamentals
+* Master en Machine Learning-Aprende Python y R desde cero
+
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
