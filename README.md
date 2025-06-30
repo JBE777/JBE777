@@ -68,6 +68,7 @@
 * Mastering Data Science and Machine Learning Fundamentals
 * Master en Machine Learning-Aprende Python y R desde cero
 * Master en Arduino IoT Internet of Things y mucho más!
+* Maestría en Analísis de Datos: Python, SQL, ML y PowerBI
 
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
