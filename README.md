@@ -87,22 +87,22 @@
 
 <b>UABC: Universidad Autonoma de Baja California, Mexico</b>
 
-* Ingeniero Electrónico(incompleta)
-* Ingeniero Topógrafo y Geodesta(Graduado-1983)
+* Ingeniero Electrónico: <em>Incompleta</em>
+* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
 
 <b>NAU: Northern Arizona University, USA</b>
-* Bachelor of Science in Education(Graduado-2007)
+* Bachelor of Science in Education: <em>Graduado-2007</em>
 
 <b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 
-* Posgrado en Administración Industrial(Graduado-1987)
-* Posgrado en Administración de Recursos Humanos (Graduado-1996)
-* Maestría en Administración(MBA)(Graduado-2012)
+* Posgrado en Administración Industrial: <em>Graduado-1987</em>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em>
+* Maestría en Administración(MBA): <em>Graduado-2012</em>
 
 
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
-* Doctor en Educación(Graduado-2019)
+* Doctor en Educación: <em>Graduado-2019</em>
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
