@@ -54,21 +54,13 @@
 ![Udemy](https://img.shields.io/badge/Cursos_Udemy-gold.svg?style=for-the-badge&logo=udemy&logoColor=aa00ff) <br>
 
 <b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
-* Curso de HTML y CSS3
-* Maestría en CSS3, Flexbox, Grid, SASS, Bootstrap 5
-* Python Orientado a la Electronica
-* Python TOTAL para Data Science & Machine Learning en 18 Días
-* Python TOTAL Programador Avanzado en 16 días
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
-* MySQL para Bases de Datos Desde Cero
-* MySQL Total Domina Bases de Datos en 12 Dias
-* Arduino para Robótica móvil para principiantes con ESP32
 * Maestría en Power BI
-* Master Data Management Fundamentals
 * Mastering Data Science and Machine Learning Fundamentals
 * Master en Machine Learning-Aprende Python y R desde cero
 * Master en Arduino IoT Internet of Things y mucho más!
 * Maestría en Analísis de Datos: Python, SQL, ML y PowerBI
+* Maestría en IoT_teorico
 
 
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
