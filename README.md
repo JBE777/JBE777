@@ -38,9 +38,10 @@
 
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg?style=for-the-badge&logo=coursera&logoColor=blue) <br>
 <b>THE HONG KONG UNIVERSITY</b>
-* Math for Engineers: Matrix Algebra 
-* Math for Engineers: Vector Calculus
-* Math for Engineers: Differential Equations 
+* Math for Engineers:
+  * Matrix Algebra 
+  * Vector Calculus
+  * Differential Equations 
 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
 * Electronica y Arduinos para tus propios Inventos
@@ -99,7 +100,7 @@
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&logoColor=ffff00)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
