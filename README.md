@@ -73,7 +73,7 @@
 [![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)](https://pastebin.com/u/Braulio777)
-[![Audacity](https://img.shields.io/badge/Audacity-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
 <hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=aaaa00)
