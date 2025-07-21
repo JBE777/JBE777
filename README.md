@@ -20,6 +20,7 @@
 [![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje_multiparadigma-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![Git-Guia](https://img.shields.io/badge/Priincipales_comandos-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 [![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
@@ -67,9 +68,9 @@
 ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
-[![Instructables](https://img.shields.io/badge/Instructables-aaaaaa.svg?style=for-the-badge&logo=instructables&logoColor=black)](htgoldtps://www.instructables.com/search/?q=braulio777&projects=featured)
+
 [![Arduino](https://img.shields.io/badge/Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=black)](https://pastebin.com/u/Braulio777)
-[![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=red)](https://pastebin.com/u/Braulio777)
+[![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 [![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)](https://pastebin.com/u/Braulio777)
