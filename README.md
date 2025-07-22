@@ -18,6 +18,7 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 [![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![Guia-HTML5](https://img.shields.io/badge/Guia-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 [![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje_multiparadigma-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
@@ -71,12 +72,11 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 
-[![Arduino](https://img.shields.io/badge/Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=black)](https://pastebin.com/u/Braulio777)
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
-[![Spider](https://img.shields.io/badge/Spyder-333333?style=for-the-badge&logo=spyder%20ide&logoColor=red)](https://pastebin.com/u/Braulio777)
-[![Numpy](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=red)](https://pastebin.com/u/Braulio777)
-[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)](https://pastebin.com/u/Braulio777)
 [![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
+[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Guia-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
+
 <hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=aaaa00)
