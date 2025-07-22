@@ -105,10 +105,11 @@
 [![Modelos Matematicos](https://img.shields.io/badge/Principales-Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Observaciones Astronomicas](https://img.shields.io/badge/Como_realizar-Observaciones_astronomicas-990000.svg?style=for-the-badge&logo=linux&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
 [![Topografia-Robotica](https://img.shields.io/badge/Topografia_hasta-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)
-[![Capacimetro](https://img.shields.io/badge/Medir_con_arduino-Capacitores-990000.svg?style=for-the-badge&logo=arduino&logoColor=88eeff)](https://claude.ai/public/artifacts/6b6369c1-a035-4236-81bb-0cc7e6836879)
-[![Inductometro](https://img.shields.io/badge/Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/0ae3410e-7c63-40c3-845a-7980ea2cc1b8)
-[![Frecuenciometro](https://img.shields.io/badge/Frecuencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/70341910-c704-4f97-8d96-0dd83d069ef6)
-[![Ohmetro](https://img.shields.io/badge/Resistencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/7cc230f4-ac88-4ce7-a85f-1f0b5cf4665c)
+[![Capacimetro](https://img.shields.io/badge/Medicion_con_arduino-LCD_Capacitores-990000.svg?style=for-the-badge&logo=arduino&logoColor=88eeff)](https://claude.ai/public/artifacts/6b6369c1-a035-4236-81bb-0cc7e6836879)
+[![Capacimetro](https://img.shields.io/badge/OLED_Capacitores-990000.svg?style=for-the-badge&logo=&logoColor=88eeff)](https://claude.ai/public/artifacts/35627bd8-6a97-4b32-8422-30591034d0f5)
+[![Inductometro](https://img.shields.io/badge/LCD_Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/0ae3410e-7c63-40c3-845a-7980ea2cc1b8)
+[![Frecuenciometro](https://img.shields.io/badge/LCD_Frecuencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/70341910-c704-4f97-8d96-0dd83d069ef6)
+[![Ohmetro](https://img.shields.io/badge/LCD_Resistencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/7cc230f4-ac88-4ce7-a85f-1f0b5cf4665c)
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
