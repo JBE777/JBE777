@@ -4,6 +4,7 @@
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)<br/>
 <i>Click on:</i>
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
+[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
 
 
 ![banner](github-jbe777.png)
