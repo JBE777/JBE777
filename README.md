@@ -22,6 +22,7 @@
 [![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/Priincipales_comandos-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 [![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![GitHub-Guia](https://img.shields.io/badge/Una_guia-Github-990000.svg?style=for-the-badge&logo=github&logoColor=black)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
@@ -95,8 +96,13 @@
 * Maestría en Administración(MBA): <em>Graduado-2012</em>
 
 
+
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación: <em>Graduado-2019</em>
+[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
+[![Modelos Matematicos](https://img.shields.io/badge/Principales-Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
+[![Observaciones Astronomicas](https://img.shields.io/badge/Como_realizar-Observaciones_astronomicas-990000.svg?style=for-the-badge&logo=linux&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
+[![Topografia-Robotica](https://img.shields.io/badge/Topografia_hasta-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
