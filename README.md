@@ -99,6 +99,7 @@
 
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación: <em>Graduado-2019</em>
+
 [![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 [![Modelos Matematicos](https://img.shields.io/badge/Principales-Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Observaciones Astronomicas](https://img.shields.io/badge/Como_realizar-Observaciones_astronomicas-990000.svg?style=for-the-badge&logo=linux&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
