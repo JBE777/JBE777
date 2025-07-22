@@ -18,15 +18,18 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 [![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![Guia-HTML5](https://img.shields.io/badge/Guia-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
-[![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![Guia-HTML5](https://img.shields.io/badge/Guia_completa-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
+[![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![CSS3](https://img.shields.io/badge/Guia_completa-css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=blue)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
 [![JavaScript](https://img.shields.io/badge/Lenguaje_multiparadigma-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+[![Guia-JavaScript](https://img.shields.io/badge/Guia_completa-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://claude.ai/public/artifacts/8c6102cd-121f-43a5-b9db-2fa4de0db4c7)
 [![Git](https://img.shields.io/badge/software_de_control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/Priincipales_comandos-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
-[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=black)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![GitHub-Guia](https://img.shields.io/badge/Una_guia-Github-990000.svg?style=for-the-badge&logo=github&logoColor=black)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
+[![GitHub](https://img.shields.io/badge/Plataforma_para_todo_tipo_de_proyectos-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=99ff00)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![GitHub-Guia](https://img.shields.io/badge/Una_guia-Github-99ff00.svg?style=for-the-badge&logo=github&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-[![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![Linux](https://img.shields.io/badge/Guia_completa_de_comandos-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 
 ##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
 
@@ -74,8 +77,6 @@
 
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 [![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
-[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
-[![Arduino](https://img.shields.io/badge/Guia-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
 
 <hr/>
 
@@ -105,6 +106,9 @@
 [![Modelos Matematicos](https://img.shields.io/badge/Principales-Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Observaciones Astronomicas](https://img.shields.io/badge/Como_realizar-Observaciones_astronomicas-990000.svg?style=for-the-badge&logo=linux&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
 [![Topografia-Robotica](https://img.shields.io/badge/Topografia_hasta-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)
+[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Guia-Arduino-009999?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
+[![Carrito-Arduino](https://img.shields.io/badge/Carro_Robot_Arduino-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
 [![Capacimetro](https://img.shields.io/badge/Medicion_con_arduino-LCD_Capacitores-990000.svg?style=for-the-badge&logo=arduino&logoColor=88eeff)](https://claude.ai/public/artifacts/6b6369c1-a035-4236-81bb-0cc7e6836879)
 [![Capacimetro](https://img.shields.io/badge/OLED_Capacitores-990000.svg?style=for-the-badge&logo=&logoColor=88eeff)](https://claude.ai/public/artifacts/35627bd8-6a97-4b32-8422-30591034d0f5)
 [![Inductometro](https://img.shields.io/badge/LCD_Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/0ae3410e-7c63-40c3-845a-7980ea2cc1b8)
