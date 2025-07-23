@@ -9,14 +9,11 @@
 
 ![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
 
-<i>Click on:</i>
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
-[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
-# <b>HTML, CSS3 y JavaScript</b>
 
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
+# <b>HTML, CSS3 y JavaScript</b>
 [![HTML5](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![Guia-HTML5](https://img.shields.io/badge/Guia_completa-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 [![CSS3](https://img.shields.io/badge/Lenguaje_sin_categoria_definida-css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
@@ -38,8 +35,13 @@
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
 
-# <b>Henry, Udemy y Coursera</b><hr>
+<i>Click on:</i>
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
+[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
 
+
+
+# <b>Henry, Udemy y Coursera</b>
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
 * Data_Science: Python, SQL y non SQL
 
@@ -128,13 +130,11 @@
 [![PHP](https://img.shields.io/badge/PHP-990000.svg?style=for-the-badge&logo=php&logoColor=gold)](https://claude.ai/public/artifacts/bf2fbc9b-ffba-4e56-83f2-d3a340607ab1)
 [![Markdown](https://img.shields.io/badge/Markdown-990000.svg?style=for-the-badge&logo=markdown&logoColor=gold)](https://claude.ai/public/artifacts/df0f2aff-3d37-4f61-956c-3cc5893dde54)
 [![Latex](https://img.shields.io/badge/Latex-990000.svg?style=for-the-badge&logo=latex&logoColor=gold)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
-##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
-
+[![Fastapi](https://img.shields.io/badge/Fastapi-990000.svg?style=for-the-badge&logo=fastapi&logoColor=gold)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 [![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
-[![Fastapi](https://img.shields.io/badge/Fastapi-990000.svg?style=for-the-badge&logo=fastapi&logoColor=gold)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
 
