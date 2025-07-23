@@ -124,12 +124,17 @@
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
-[![MySQL](https://img.shields.io/badge/Guia_completa-MySQL-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
-[![Streamlit](https://img.shields.io/badge/Streamlit-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/20323631-d042-408b-b27b-5d67e4202c7f)
-[![Google-colab](https://img.shields.io/badge/Google_colab-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/f3aed168-0d68-43be-ade6-e8be17d65a94)
+
+![MySQL](https://img.shields.io/badge/Guia-completa-990.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
+[![MySQL](https://img.shields.io/badge/MySQL-990000.svg?style=for-the-badge&logo=mysql&logoColor=gold)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
+[![Streamlit](https://img.shields.io/badge/Streamlit-990000.svg?style=for-the-badge&logo=streamlit&logoColor=gold)](https://claude.ai/public/artifacts/20323631-d042-408b-b27b-5d67e4202c7f)
+[![Google-colab](https://img.shields.io/badge/Google_colab-990000.svg?style=for-the-badge&logo=google-colab&logoColor=gold)](https://claude.ai/public/artifacts/f3aed168-0d68-43be-ade6-e8be17d65a94)
 [![PowerBI](https://img.shields.io/badge/PowerBI-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/a24208c1-c127-444e-a06e-2fa84549e7ff)
-[![Python](https://img.shields.io/badge/Python-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/4b89ff1a-b7c9-48e7-8e84-a61118cff41b)
-[![PHP](https://img.shields.io/badge/PHP-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/bf2fbc9b-ffba-4e56-83f2-d3a340607ab1)
+[![Python](https://img.shields.io/badge/Python-990000.svg?style=for-the-badge&logo=python&logoColor=gold)](https://claude.ai/public/artifacts/4b89ff1a-b7c9-48e7-8e84-a61118cff41b)
+[![PHP](https://img.shields.io/badge/PHP-990000.svg?style=for-the-badge&logo=php&logoColor=gold)](https://claude.ai/public/artifacts/bf2fbc9b-ffba-4e56-83f2-d3a340607ab1)
+[![Markdown](https://img.shields.io/badge/Markdown-990000.svg?style=for-the-badge&logo=markdown&logoColor=gold)](https://claude.ai/public/artifacts/df0f2aff-3d37-4f61-956c-3cc5893dde54)
+[![Latex](https://img.shields.io/badge/Latex-990000.svg?style=for-the-badge&logo=latex&logoColor=gold)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
+[![Fastapi](https://img.shields.io/badge/Fastapi-990000.svg?style=for-the-badge&logo=fastapi&logoColor=gold)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
 
