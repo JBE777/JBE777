@@ -27,15 +27,10 @@
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![Linux](https://img.shields.io/badge/Guia_completa_de_comandos-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
-
-##### <b><em>Haz click sobre cada icono para aprender de la escuela en cuestion <em></b>
-
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)<hr>
-
-<i>Click on:</i>
+[![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
 [![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
 
