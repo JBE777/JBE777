@@ -119,6 +119,8 @@
 [![Circuito-Inductometro](https://img.shields.io/badge/Circuito-OLED_Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/bd0fa35d-0801-4c0a-a243-d4c7507782e1)
 [![Frecuenciometro](https://img.shields.io/badge/LCD_Frecuencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/70341910-c704-4f97-8d96-0dd83d069ef6)
 [![Ohmetro](https://img.shields.io/badge/LCD_Resistencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/7cc230f4-ac88-4ce7-a85f-1f0b5cf4665c)
+[![TicTacToe](https://img.shields.io/badge/Codigo-OLED_TicTacToe-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/2571fb61-9393-45a0-bc16-3be2fdd74db2)
+[![TicTacToe](https://img.shields.io/badge/Circuito-OLED_TicTacToe-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/0260f405-a598-4178-83a8-e4c7dfa3f952)
 <hr>
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
