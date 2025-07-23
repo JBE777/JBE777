@@ -2,9 +2,6 @@
 ===================================================================================================================================
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)<br/>
-<i>Click on:</i>
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
-[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
 
 
 ![banner](github-jbe777.png)
@@ -12,6 +9,9 @@
 
 ![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
 
+<i>Click on:</i>
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
+[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
 # <b>HTML, CSS3 y JavaScript</b>
 
 
@@ -71,12 +71,6 @@
 * Maestría en IoT_teorico
 
 
-##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
-
-[![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
-
-[![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
-[![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
 
 <hr/>
 
@@ -134,6 +128,12 @@
 [![PHP](https://img.shields.io/badge/PHP-990000.svg?style=for-the-badge&logo=php&logoColor=gold)](https://claude.ai/public/artifacts/bf2fbc9b-ffba-4e56-83f2-d3a340607ab1)
 [![Markdown](https://img.shields.io/badge/Markdown-990000.svg?style=for-the-badge&logo=markdown&logoColor=gold)](https://claude.ai/public/artifacts/df0f2aff-3d37-4f61-956c-3cc5893dde54)
 [![Latex](https://img.shields.io/badge/Latex-990000.svg?style=for-the-badge&logo=latex&logoColor=gold)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
+##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
+
+[![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
+
+[![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
+[![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
 [![Fastapi](https://img.shields.io/badge/Fastapi-990000.svg?style=for-the-badge&logo=fastapi&logoColor=gold)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
