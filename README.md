@@ -1,13 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-dddd33.svg?style=for-the-badge&logo=tor-browser&logoColor=dddd33)<br/>
+![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-990.svg?style=for-the-badge&logo=tor-browser&logoColor=990)<br/>
 
 
 ![banner](github-jbe777.png)
 <br/>
 
-![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=gold)
+![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=990)
 
 
 
@@ -31,11 +31,16 @@
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 
+![Raspberrypi](https://img.shields.io/badge/Raspberrypi-%23990000.svg?style=for-the-badge&logo=Raspberrypi&logoColor=990)
+[![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
+
+[![LaTeX](https://img.shields.io/badge/latex-%23990000.svg?style=for-the-badge&logo=latex&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
+[![LaTeX](https://img.shields.io/badge/Guia_Online-%23990.svg?style=for-the-badge&logo=&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
+
+![Coursera](https://img.shields.io/badge/Sitios_Online-%23990.svg?style=for-the-badge&logo=&logoColor=white)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
-[![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://aprendeconalf.es/latex-manual/formulas.html) 
-[![Vellum](https://img.shields.io/badge/Vellum-%23990000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.vellum.ai/llm-leaderboard) 
+[![edX](https://img.shields.io/badge/edX-%23990000.svg?style=for-the-badge&logo=edX&logoColor=990)](https://www.edx.org/)
+[![Udemy](https://img.shields.io/badge/Udemy-%23990000?style=for-the-badge&logo=Udemy&logoColor=990)](https://www.udemy.com/)
 
 
 
@@ -88,22 +93,20 @@
 * Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em>
 * Maestría en Administración(MBA): <em>Graduado-2012</em>
 
-
-
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación: <em>Graduado-2019</em>
 
-[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
-[![Modelos Matematicos](https://img.shields.io/badge/Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
+[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990.svg?style=for-the-badge&logo=github&logoColor=990)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
+[![Modelos Matematicos](https://img.shields.io/badge/Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=990)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Cosas Astronomicas](https://img.shields.io/badge/Cosas_astronomicas-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
-[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<br/>
+[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=990)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<br/>
 [![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)
-[![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=coursera&logoColor=gold)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
+[![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=&logoColor=990)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
 
-[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
-[![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
-[![Carrito-Arduino](https://img.shields.io/badge/Carro_Robot-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
-[![Carrito-ESP32_wifi](https://img.shields.io/badge/Carro_Robot-ESP32_wifi-990000?style=for-the-badge&logo=google&logoColor=00ff00)](https://claude.ai/public/artifacts/871b4434-5837-49a8-a20e-d6bb3095f150)
+[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990?style=for-the-badge&logo=Arduino&logoColor=990)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
+[![Carrito-Arduino](https://img.shields.io/badge/Carro_Robot-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
+[![Carrito-ESP32_wifi](https://img.shields.io/badge/Carro_Robot-ESP32_wifi-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/871b4434-5837-49a8-a20e-d6bb3095f150)
 [![Carrito-ESP32_bluetooth](https://img.shields.io/badge/ESP32_bluetooth-990000?style=for-the-badge&logo=google&logoColor=00ff00)](https://claude.ai/public/artifacts/e35f05a8-611b-4198-8e74-45cb4aa95f32)
 [![Codigo-Capacimetro](https://img.shields.io/badge/Codigo-LCD_Capacitores-990000.svg?style=for-the-badge&logo=arduino&logoColor=88eeff)](https://claude.ai/public/artifacts/6b6369c1-a035-4236-81bb-0cc7e6836879)
 [![Capacimetro](https://img.shields.io/badge/OLED_Capacitores-990000.svg?style=for-the-badge&logo=&logoColor=88eeff)](https://claude.ai/public/artifacts/35627bd8-6a97-4b32-8422-30591034d0f5)
@@ -116,8 +119,6 @@
 [![TicTacToe](https://img.shields.io/badge/Codigo-OLED_TicTacToe-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/2571fb61-9393-45a0-bc16-3be2fdd74db2)
 [![TicTacToe](https://img.shields.io/badge/Circuito-OLED_TicTacToe-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/0260f405-a598-4178-83a8-e4c7dfa3f952)
 <hr>
-
-![Tecnologias](https://img.shields.io/badge/Tecnologias-Python,_MySQL,_Fastapi,_Streamlit,_Google_Colab,_Power_BI-990000.svg?style=for-the-badge&logo=playstation&logoColor=gold)
 
 ![MySQL](https://img.shields.io/badge/Guia-completa-990.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 [![MySQL](https://img.shields.io/badge/MySQL-990000.svg?style=for-the-badge&logo=mysql&logoColor=gold)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
