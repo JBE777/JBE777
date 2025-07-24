@@ -120,6 +120,7 @@
 ![MySQL](https://img.shields.io/badge/Guia-completa-990.svg?style=for-the-badge&logo=gitbook&logoColor=gold)
 [![MySQL](https://img.shields.io/badge/MySQL-990000.svg?style=for-the-badge&logo=mysql&logoColor=gold)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
 [![Streamlit](https://img.shields.io/badge/Streamlit-990000.svg?style=for-the-badge&logo=streamlit&logoColor=gold)](https://claude.ai/public/artifacts/20323631-d042-408b-b27b-5d67e4202c7f)
+[![Elementos Visules](https://img.shields.io/badge/Elementos_visuales_para-Presentaciones-990000.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/d87fdfaf-6ff5-438b-8670-66f52a8bbb53)
 [![Google-colab](https://img.shields.io/badge/Google_colab-990000.svg?style=for-the-badge&logo=google-colab&logoColor=gold)](https://claude.ai/public/artifacts/f3aed168-0d68-43be-ade6-e8be17d65a94)
 [![PowerBI](https://img.shields.io/badge/PowerBI-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/a24208c1-c127-444e-a06e-2fa84549e7ff)
 [![Python](https://img.shields.io/badge/Python-990000.svg?style=for-the-badge&logo=python&logoColor=gold)](https://claude.ai/public/artifacts/4b89ff1a-b7c9-48e7-8e84-a61118cff41b)
