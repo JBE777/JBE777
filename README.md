@@ -31,9 +31,6 @@
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 
-![Raspberrypi](https://img.shields.io/badge/Raspberrypi-%23990000.svg?style=for-the-badge&logo=Raspberrypi&logoColor=990)
-[![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
-
 [![LaTeX](https://img.shields.io/badge/latex-%23990000.svg?style=for-the-badge&logo=latex&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 [![LaTeX](https://img.shields.io/badge/Guia_Online-%23990.svg?style=for-the-badge&logo=&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 
@@ -102,6 +99,11 @@
 [![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=990)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<br/>
 [![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)
 [![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=&logoColor=990)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
+
+![Raspberrypi](https://img.shields.io/badge/Raspberrypi-%23990000.svg?style=for-the-badge&logo=Raspberrypi&logoColor=990)
+[![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
+
+[![Raspberrypi](https://img.shields.io/badge/Ejemplos-Raspberrypi-%23990.svg?style=for-the-badge&logo=&logoColor=white)]([![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8))
 
 [![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990?style=for-the-badge&logo=Arduino&logoColor=990)](https://pastebin.com/u/Braulio777)
 [![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
