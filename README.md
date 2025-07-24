@@ -66,9 +66,6 @@
 * Master en Arduino IoT Internet of Things y mucho más!
 * Maestría en Analísis de Datos: Python, SQL, ML y PowerBI
 * Maestría en IoT_teorico
-
-
-
 <hr/>
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=aaaa00)
@@ -96,7 +93,9 @@
 [![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 [![Modelos Matematicos](https://img.shields.io/badge/Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Cosas Astronomicas](https://img.shields.io/badge/Cosas_astronomicas-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
-[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)
+[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<hr/>
+[![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990000.svg?style=for-the-badge&logo=udacity&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)
+[![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=coursera&logoColor=gold)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
 
 [![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
 [![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
