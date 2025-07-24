@@ -26,10 +26,11 @@
 [![Git](https://img.shields.io/badge/git-%23Ff0000.svg?style=for-the-badge&logo=&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/comandos-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 
-[![GitHub](https://img.shields.io/badge/Plataforma-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=99ff00)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
+[![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=990)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![GitHub-Guia](https://img.shields.io/badge/Una_guia-990.svg?style=for-the-badge&logo=&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
-[![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript_para_codigo-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-[![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript_para_codigo-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+
+[![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=google-scholar&logoColor=990)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
 
@@ -63,7 +64,7 @@
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
 * Sistemas Digitales: desde las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos_Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=gold) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=990) <br>
 
 <b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
@@ -75,7 +76,7 @@
 * Maestría en IoT_teorico
 <hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=aaaa00)
+![Formación profesional](https://img.shields.io/badge/Formacion_academica_universitaria-990000.svg?style=for-the-badge&logo=python&logoColor=990)
 
 <b>UABC: Universidad Autonoma de Baja California, Mexico</b>
 
@@ -104,7 +105,7 @@
 
 ![Raspberrypi](https://img.shields.io/badge/Raspberry_pi-%23990000.svg?style=for-the-badge&logo=Raspberrypi&logoColor=990)
 [![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
-[![Raspberrypi](https://img.shields.io/badge/Ejemplos-%23990.svg?style=for-the-badge&logo=&logoColor=white)]([![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8))
+[![Raspberrypi](https://img.shields.io/badge/Ejemplos-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/e1e8e52e-6b46-45a8-ad24-2808fa97f886)
 
 [![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990?style=for-the-badge&logo=&logoColor=990)](https://pastebin.com/u/Braulio777)
 [![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
