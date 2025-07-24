@@ -14,20 +14,23 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 # <b>HTML, CSS3 y JavaScript</b>
-[![HTML5](https://img.shields.io/badge/Lenguaje-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![Guia-HTML5](https://img.shields.io/badge/Guia_completa-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
-[![CSS3](https://img.shields.io/badge/Lenguaje-css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
-[![CSS3](https://img.shields.io/badge/Guia_completa-css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=blue)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
-[![JavaScript](https://img.shields.io/badge/Lenguaje-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
-[![Guia-JavaScript](https://img.shields.io/badge/Guia-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://claude.ai/public/artifacts/8c6102cd-121f-43a5-b9db-2fa4de0db4c7)
-[![Git](https://img.shields.io/badge/control_de_versiones-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
-[![Git-Guia](https://img.shields.io/badge/comandos-git-%23Ff0000.svg?style=for-the-badge&logo=git&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![Guia-HTML5](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![CSS3](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=blue)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
+[![JavaScript](https://img.shields.io/badge/lenguaje_javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+[![Guia-JavaScript](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=%23F7DF1E)](https://claude.ai/public/artifacts/8c6102cd-121f-43a5-b9db-2fa4de0db4c7)
+
+[![Git](https://img.shields.io/badge/git-%23Ff0000.svg?style=for-the-badge&logo=&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![Git-Guia](https://img.shields.io/badge/comandos-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
+
 [![GitHub](https://img.shields.io/badge/Plataforma-github-99ff00.svg?style=for-the-badge&logo=github&logoColor=99ff00)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
-[![GitHub-Guia](https://img.shields.io/badge/Una_guia-Github-99ff00.svg?style=for-the-badge&logo=github&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
+[![GitHub-Guia](https://img.shields.io/badge/Una_guia-990.svg?style=for-the-badge&logo=&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
 [![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript_para_codigo-Node.js-99ff00?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Linux](https://img.shields.io/badge/Sistema_Operativo-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
-[![Linux](https://img.shields.io/badge/comandos-Linux-FCC624?style=for-the-badge&logo=google-scholar&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
+[![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
+
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%23ff0000.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%33000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
@@ -56,7 +59,7 @@
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
 * Sistemas Digitales: desde las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos_Udemy-gold.svg?style=for-the-badge&logo=udemy&logoColor=aa00ff) <br>
+![Udemy](https://img.shields.io/badge/Cursos_Udemy-990000.svg?style=for-the-badge&logo=udemy&logoColor=gold) <br>
 
 <b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
@@ -90,14 +93,14 @@
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación: <em>Graduado-2019</em>
 
-[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
+[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990.svg?style=for-the-badge&logo=github&logoColor=gold)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 [![Modelos Matematicos](https://img.shields.io/badge/Modelos_Matematicos-990000.svg?style=for-the-badge&logo=git&logoColor=gold)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Cosas Astronomicas](https://img.shields.io/badge/Cosas_astronomicas-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
-[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<hr/>
-[![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990000.svg?style=for-the-badge&logo=udacity&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)
+[![Topografia-Robotica](https://img.shields.io/badge/Topografia-Robotica-990000.svg?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)<br/>
+[![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)
 [![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=coursera&logoColor=gold)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
 
-[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://pastebin.com/u/Braulio777)
 [![Arduino](https://img.shields.io/badge/Guia-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
 [![Carrito-Arduino](https://img.shields.io/badge/Carro_Robot-990000?style=for-the-badge&logo=Arduino&logoColor=00ff00)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
 [![Carrito-ESP32_wifi](https://img.shields.io/badge/Carro_Robot-ESP32_wifi-990000?style=for-the-badge&logo=google&logoColor=00ff00)](https://claude.ai/public/artifacts/871b4434-5837-49a8-a20e-d6bb3095f150)
@@ -127,13 +130,13 @@
 [![Markdown](https://img.shields.io/badge/Markdown-990000.svg?style=for-the-badge&logo=markdown&logoColor=gold)](https://claude.ai/public/artifacts/df0f2aff-3d37-4f61-956c-3cc5893dde54)
 [![Latex](https://img.shields.io/badge/Latex-990000.svg?style=for-the-badge&logo=latex&logoColor=gold)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
 [![Fastapi](https://img.shields.io/badge/Fastapi-990000.svg?style=for-the-badge&logo=fastapi&logoColor=gold)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
-[![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
+[![YouTube](https://img.shields.io/badge/YouTube-990000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@drjavierbaez1959)
 
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 [![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990000?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
 [![BDE](https://img.shields.io/badge/Derivadas_e_integrales_booleanas-990000?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
