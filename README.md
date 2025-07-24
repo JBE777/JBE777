@@ -130,7 +130,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-dddddd.svg?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@drjavierbaez1959)
 
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=jupyter&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
-[![ClaudeIA](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-005588?style=for-the-badge&logo=audacity&logoColor=red)](https://claude.ai/public/artifacts/57908d7a-9e8b-4cdf-bbc7-73f91881094d)
+[![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990000?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
+[![BDE](https://img.shields.io/badge/Derivadas_e_integrales_booleanas-990000?style=for-the-badge&logo=gitbook&logoColor=gold)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-ffff00.svg?style=for-the-badge&logo=tether&lotroogoColor=ffff00)<br/>
 
