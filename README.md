@@ -14,6 +14,7 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
 # <b>HTML, CSS3 y JavaScript</b>
+
 [![HTML5](https://img.shields.io/badge/lenguaje_html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=990)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![Guia-HTML5](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 
@@ -22,14 +23,12 @@
 
 [![JavaScript](https://img.shields.io/badge/lenguaje_javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![Guia-JavaScript](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=%23F7DF1E)](https://claude.ai/public/artifacts/8c6102cd-121f-43a5-b9db-2fa4de0db4c7)
-
+[![NodeJS](https://img.shields.io/badge/Entorno_Javascript-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Git](https://img.shields.io/badge/git-%23Ff0000.svg?style=for-the-badge&logo=&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/comandos-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 
 [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=990)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![GitHub-Guia](https://img.shields.io/badge/Una_guia-990.svg?style=for-the-badge&logo=&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
-[![NodeJS](https://img.shields.io/badge/Entorno_de_Javascript_para_codigo-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
-
 [![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=google-scholar&logoColor=990)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
