@@ -103,6 +103,7 @@
 [![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000.svg?style=for-the-badge&logo=&logoColor=990)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
 
 [![Arduino](https://img.shields.io/badge/Proyectos_completos_online_pastebin.com-Arduino-990?style=for-the-badge&logo=arduino&logoColor=990)](https://pastebin.com/u/Braulio777)
+
 [![Arduino](https://img.shields.io/badge/Guia_completa-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
 [![Carrito-Arduino](https://img.shields.io/badge/Carro_Robot-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
 [![Carrito-ESP32_wifi](https://img.shields.io/badge/Carro_Robot-ESP32_wifi-990000?style=for-the-badge&logo=&logoColor=00ff00)](https://claude.ai/public/artifacts/871b4434-5837-49a8-a20e-d6bb3095f150)
