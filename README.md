@@ -121,10 +121,12 @@
 
 ![Raspberrypi](https://img.shields.io/badge/Raspberry_pi-%23990000.svg?style=for-the-badge&logo=Raspberrypi&logoColor=990)
 [![Raspberrypi](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
+
 [![Raspberrypi](https://img.shields.io/badge/Ejemplos_de_esta_tecnologia-%23990000.svg?style=for-the-badge&logo=&logoColor=white)](https://claude.ai/public/artifacts/e1e8e52e-6b46-45a8-ad24-2808fa97f886)
 <hr>
 
 ![MySQL](https://img.shields.io/badge/Guia_de_esta_tecnologia_de_base_de_datos-completa-990.svg?style=for-the-badge&logo=&logoColor=990)
+
 [![MySQL](https://img.shields.io/badge/MySQL-990000.svg?style=for-the-badge&logo=mysql&logoColor=gold)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
 [![Streamlit](https://img.shields.io/badge/Streamlit-990000.svg?style=for-the-badge&logo=streamlit&logoColor=990)](https://claude.ai/public/artifacts/20323631-d042-408b-b27b-5d67e4202c7f)
 [![Ejemplos-Streamlit](https://img.shields.io/badge/Ejemplos-Streamlit-aa0000.svg?style=for-the-badge&logo=streamlit&logoColor=990)](https://www.youtube.com/watch?v=_Um12_OlGgw&t=3s)
@@ -140,6 +142,7 @@
 [![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 
 [![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
+
 [![BDE](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990000?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990.svg?style=for-the-badge&logo=tether&logoColor=990)<br/>
