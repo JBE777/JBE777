@@ -34,6 +34,7 @@
 
 ![Coursera](https://img.shields.io/badge/Sitios_Online-%23990.svg?style=for-the-badge&logo=&logoColor=white)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
+
 [![edX](https://img.shields.io/badge/edX-%23990000.svg?style=for-the-badge&logo=edX&logoColor=990)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%23990000?style=for-the-badge&logo=Udemy&logoColor=990)](https://www.udemy.com/)
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
