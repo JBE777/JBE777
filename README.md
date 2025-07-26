@@ -13,8 +13,6 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
-# <b>HTML, CSS3 y JavaScript</b>
-
 [![HTML5](https://img.shields.io/badge/lenguaje_html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=990)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![Guia-HTML5](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 
@@ -22,8 +20,7 @@
 [![CSS3](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=blue)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
 
 [![JavaScript](https://img.shields.io/badge/lenguaje_javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
-[![Guia-JavaScript](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=%23F7DF1E)](https://claude.ai/public/artifacts/8c6102cd-121f-43a5-b9db-2fa4de0db4c7)
-[![NodeJS](https://img.shields.io/badge/Entorno_Javascript-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
+commt[![NodeJS](https://img.shields.io/badge/Entorno_Javascript-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 [![Git](https://img.shields.io/badge/git-%23Ff0000.svg?style=for-the-badge&logo=&logoColor=red)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/comandos-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 
