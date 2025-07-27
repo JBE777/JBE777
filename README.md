@@ -13,10 +13,10 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 
-[![HTML5](https://img.shields.io/badge/lenguaje_html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=990)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![HTML5](https://img.shields.io/badge/lenguaje_html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![Guia-HTML5](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 
-[![CSS3](https://img.shields.io/badge/lenguaje_css3-%23000000.svg?style=for-the-badge&logo=CSS#&logoColor=990)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![CSS3](https://img.shields.io/badge/lenguaje_css3-%23000000.svg?style=for-the-badge&logo=CSS&logoColor=blue)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![CSS3](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=blue)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
 
 [![JavaScript](https://img.shields.io/badge/lenguaje_javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
@@ -27,7 +27,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=990)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![GitHub-Guia](https://img.shields.io/badge/Una_guia-990.svg?style=for-the-badge&logo=&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
-[![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=google-scholar&logoColor=990)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![LaTeX](https://img.shields.io/badge/latex-%23990000.svg?style=for-the-badge&logo=latex&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 [![LaTeX](https://img.shields.io/badge/Guia_Online-%23990.svg?style=for-the-badge&logo=&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
