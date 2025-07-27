@@ -22,24 +22,22 @@
 [![JavaScript](https://img.shields.io/badge/lenguaje_javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![NodeJS](https://img.shields.io/badge/Entorno_Javascript-Node.js-990?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
 
-[![Git](https://img.shields.io/badge/git-%23990000.svg?style=for-the-badge&logo=git&logoColor=990)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
+[![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=990)](https://www.youtube.com/watch?v=mBYSUUnMt9M&t=1606s)
 [![Git-Guia](https://img.shields.io/badge/comandos-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/share/c339f59a-a0ed-4037-8345-eec15ea29849)
 
 [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=990)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![GitHub-Guia](https://img.shields.io/badge/Una_guia-990.svg?style=for-the-badge&logo=&logoColor=99ff00)](https://claude.ai/public/artifacts/41b6aa35-c3e0-45a9-b24c-99bd9be87c3f)
-[![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=gold)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 [![Linux](https://img.shields.io/badge/comandos-990?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
-[![LaTeX](https://img.shields.io/badge/latex-%23990000.svg?style=for-the-badge&logo=latex&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
+[![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 [![LaTeX](https://img.shields.io/badge/Guia_Online-%23990.svg?style=for-the-badge&logo=&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 
 ![Coursera](https://img.shields.io/badge/Sitios_Online-%23990.svg?style=for-the-badge&logo=&logoColor=white)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230000.svg?style=for-the-badge&logo=Coursera&logoColor=990)](https://www.coursera.org/)
 
 [![edX](https://img.shields.io/badge/edX-%23990000.svg?style=for-the-badge&logo=edX&logoColor=990)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%23990000?style=for-the-badge&logo=Udemy&logoColor=990)](https://www.udemy.com/)
-[![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=blue)](https://www.kaggle.com/)
-
-
+[![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-000099?style=for-the-badge&logo=google-scholar&logoColor=990)](https://www.kaggle.com/)
 
 # <b>Henry, Udemy y Coursera</b>
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg?style=for-the-badge&logo=gitbook&logoColor=yellow)
