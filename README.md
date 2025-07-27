@@ -3,15 +3,15 @@
 
 ![Bienvenido](https://img.shields.io/badge/bienvenido-a%20mi%20github%20de%20data%20science%20e%20IoT-990.svg?style=for-the-badge&logo=tor-browser&logoColor=990)<br/>
 
-
 ![banner](github-jbe777.png)
+![banner](carpeta.png)
 <br/>
+
 
 ![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=990)
 
-
-
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
 [![HTML5](https://img.shields.io/badge/lenguaje_html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=red)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![Guia-HTML5](https://img.shields.io/badge/Guia_completa-%23990.svg?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
