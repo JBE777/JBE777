@@ -33,7 +33,7 @@
 [![LaTeX](https://img.shields.io/badge/Guia_Online-%23990.svg?style=for-the-badge&logo=&logoColor=990)](https://aprendeconalf.es/latex-manual/formulas.html) 
 
 ![Coursera](https://img.shields.io/badge/Sitios_Online-%23990.svg?style=for-the-badge&logo=&logoColor=white)
-[![Coursera](https://img.shields.io/badge/Coursera-%230000.svg?style=for-the-badge&logo=Coursera&logoColor=990)](https://www.coursera.org/)
+[![Coursera](https://img.shields.io/badge/Coursera-%23000000.svg?style=for-the-badge&logo=Coursera&logoColor=990)](https://www.coursera.org/)
 
 [![edX](https://img.shields.io/badge/edX-%23990000.svg?style=for-the-badge&logo=edX&logoColor=990)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-%23990000?style=for-the-badge&logo=Udemy&logoColor=990)](https://www.udemy.com/)
