@@ -114,6 +114,7 @@
 [![Circuito-Inductometro](https://img.shields.io/badge/Circuito-OLED_Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/bd0fa35d-0801-4c0a-a243-d4c7507782e1)
 [![Inductometro](https://img.shields.io/badge/Con_LM339-Medidor_Inductores-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/fada185a-f745-4c7f-a596-20c1a55a95ff)
 [![Inductometro](https://img.shields.io/badge/Circuito-990.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/06d18a74-a328-4bd0-9309-b290582de27c)
+
 [![Frecuenciometro](https://img.shields.io/badge/codigo-LCD_Frecuencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/70341910-c704-4f97-8d96-0dd83d069ef6)
 [![Ohmetro](https://img.shields.io/badge/codigo-LCD_Resistencias-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/7cc230f4-ac88-4ce7-a85f-1f0b5cf4665c)
 [![TicTacToe](https://img.shields.io/badge/Codigo-OLED_TicTacToe-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/2571fb61-9393-45a0-bc16-3be2fdd74db2)
