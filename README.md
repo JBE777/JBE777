@@ -85,7 +85,8 @@
 <b>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em>
 
-![Exterior de CETYS Universidad con logotipo y edificio moderno](https://images.bing.com/images/create/caab2d3f-ce6d-4608-8b85-27d9a9e69d83)
+![Logo CETYS Universidad](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_cetys_universidad.jpg/320px-Logo_cetys_universidad.jpg)
+
 
 
 <b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
