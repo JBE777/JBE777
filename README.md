@@ -11,9 +11,6 @@
 
 <br/>
 
-
-![NewTec](https://img.shields.io/badge/Aprendiendo-nuevas%20tecnologias-990000.svg?style=for-the-badge&logo=pug&logoColor=990)
-
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
