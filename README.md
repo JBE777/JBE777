@@ -85,6 +85,9 @@
 <b>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em>
 
+![Exterior de CETYS Universidad con logotipo y edificio moderno](https://images.bing.com/images/create/caab2d3f-ce6d-4608-8b85-27d9a9e69d83)
+
+
 <b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 
 * Posgrado en Administración Industrial: <em>Graduado-1987</em>
