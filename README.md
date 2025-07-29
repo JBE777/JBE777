@@ -41,7 +41,7 @@
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-990.svg)](https://www.kaggle.com/)
 
 # <b>Henry, Udemy y Coursera</b>
-![Henry](https://img.shields.io/badge/Cursos-Henry-990.svg)
+![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)
 
 * Data_Science: Python, SQL y non SQL
 
@@ -96,15 +96,15 @@
 
 [![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 
-![Temas-Importantes](https://img.shields.io/badge/Temas_de_interes-990000.svg?style=for-the-badge&logo=&logoColor=)
+![Temas-Importantes](https://img.shields.io/badge/Temas_de_interes-990000.svg)
 [![Modelos Matematicos](https://img.shields.io/badge/Modelos-Matematicos-990.svg)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
 [![Cosas Astronomicas](https://img.shields.io/badge/Obseraciones-astronomicas-990.svg)](https://claude.ai/public/artifacts/6948cf20-edc7-4317-9d44-853a67f6cb8b)
 [![Topografia](https://img.shields.io/badge/Conceptos,_matrices-Topografia_&_Robotica-990.svg)](https://claude.ai/share/6c513035-0f25-44d7-8b08-b229436e846e)
 
-[![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990000.svg?style=for-the-badge&logo=&logoColor=gold)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)\
+[![Variable-Compleja](https://img.shields.io/badge/Variable-compleja-990000.svg)](https://claude.ai/public/artifacts/f8524682-0ea7-4628-84c6-9991131d23ae)\
 [![Ejemplos-Compleja](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990.svg)](https://claude.ai/public/artifacts/a85ee9e7-9e37-4bf9-abdb-755a57f0e5d5)
 
-[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990000?style=for-the-badge&logo=arduino&logoColor=990)](https://pastebin.com/u/Braulio777)
+[![Arduino](https://img.shields.io/badge/Proyectos-Arduino-990000.svg)](https://pastebin.com/u/Braulio777)
 [![Arduino](https://img.shields.io/badge/Guia-completa-990.svg)](https://claude.ai/public/artifacts/51bf41cb-8aaf-4145-acb4-cebc489100c1)
 [![Carrito-Arduino](https://img.shields.io/badge/Carro-Robot-990.svg)](https://claude.ai/public/artifacts/dabd80f4-adcf-4f8e-9485-ace16688b853)
 [![Carrito-ESP32_wifi](https://img.shields.io/badge/Carro_Robot-ESP32_wifi-990.svg)](https://claude.ai/public/artifacts/871b4434-5837-49a8-a20e-d6bb3095f150)
@@ -122,12 +122,12 @@
 [![TicTacToe](https://img.shields.io/badge/Codigo-OLED_Tic_Tac_Toe-990.svg)](https://claude.ai/public/artifacts/2571fb61-9393-45a0-bc16-3be2fdd74db2)
 [![TicTacToe](https://img.shields.io/badge/Circuito-OLED_Tic_Tac_Toe-990.svg)](https://claude.ai/public/artifacts/0260f405-a598-4178-83a8-e4c7dfa3f952)
 
-![Raspberrypi](https://img.shields.io/badge/Raspberry_pi-%23990000.svg?style=for-the-badge&logo=&logoColor=)
+![Raspberrypi](https://img.shields.io/badge/Raspberrypi-990000.svg)
 [![Raspberrypi](https://img.shields.io/badge/Guia-Completa-990.svg)](https://claude.ai/public/artifacts/f34fcfa8-d344-49b4-95f6-14178c4464f8)
 [![Raspberrypi](https://img.shields.io/badge/Ejemplos-Raspberrypi-990.svg)](https://claude.ai/public/artifacts/e1e8e52e-6b46-45a8-ad24-2808fa97f886)
 <hr>
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias-990000.svg?style=for-the-badge&logo=&logoColor=990)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-990000.svg)
 [![MySQL](https://img.shields.io/badge/Guia-MySQL-990.svg)](https://claude.ai/public/artifacts/6c7802c6-41a3-4a79-8ecb-d5d32cd785dd)
 [![Streamlit](https://img.shields.io/badge/Guia-Streamlit-990.svg)](https://claude.ai/public/artifacts/20323631-d042-408b-b27b-5d67e4202c7f)
 [![Ejemplos-Streamlit](https://img.shields.io/badge/Ejemplos-Streamlit-990.svg)](https://www.youtube.com/watch?v=_Um12_OlGgw&t=3s)
@@ -139,14 +139,13 @@
 [![Latex](https://img.shields.io/badge/Guia-Latex-990.svg)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
 [![Fastapi](https://img.shields.io/badge/Guia-Fastapi-990.svg)](https://claude.ai/public/artifacts/31215a93-68a3-4052-a048-f57923f66f8c)
 
+[![Elementos Visuales](https://img.shields.io/badge/Elementos_visuales_para-Presentaciones-990000.svg)](https://claude.ai/public/artifacts/d87fdfaf-6ff5-438b-8670-66f52a8bbb53)
+[![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000.svg)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
 
-[![Elementos Visuales](https://img.shields.io/badge/Elementos_visuales_para-Presentaciones-990000.svg?style=for-the-badge&logo=&logoColor=990)](https://claude.ai/public/artifacts/d87fdfaf-6ff5-438b-8670-66f52a8bbb53)
-[![Laplace](https://img.shields.io/badge/Guia-Transformada_de_Laplace-990000?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/c9cc800d-92f2-4cda-8b94-b24058477444)
-
-[![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990000?style=for-the-badge&logo=&logoColor=red)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
+[![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990000.svg)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
 [![BDE](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990.svg)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
-![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg?style=for-the-badge&logo=tether&logoColor=990)<br/>
+![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
 
