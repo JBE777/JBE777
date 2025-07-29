@@ -41,7 +41,7 @@
 [![Kaggle](https://img.shields.io/badge/Importante_plataforma-Kaggle-990.svg)](https://www.kaggle.com/)
 
 # <b>Henry, Udemy y Coursera</b>
-![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)
+![Henry](https://img.shields.io/badge/Cursos-Henry-990.svg)
 
 * Data_Science: Python, SQL y non SQL
 
@@ -62,7 +62,7 @@
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
 * Sistemas Digitales: desde las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990000.svg) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg) <br>
 
 <b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
@@ -74,7 +74,7 @@
 * Maestría en IoT_teorico
 <hr/>
 
-![Formación profesional](https://img.shields.io/badge/Formacion_academica-universitaria-990000.svg)
+![Formación profesional](https://img.shields.io/badge/Formacion_academica-universitaria-990.svg)
 
 <b>UABC: Universidad Autonoma de Baja California, Mexico</b>
 
@@ -85,10 +85,6 @@
 <b>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em>
 
-![Logo CETYS Universidad](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_cetys_universidad.jpg/320px-Logo_cetys_universidad.jpg)
-
-
-
 <b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 
 * Posgrado en Administración Industrial: <em>Graduado-1987</em>
@@ -98,7 +94,7 @@
 <b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Doctor en Educación: <em>Graduado-2019</em>
 
-[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg?style=for-the-badge&logo=&logoColor=990)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
+[![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 
 ![Temas-Importantes](https://img.shields.io/badge/Temas_de_interes-990000.svg?style=for-the-badge&logo=&logoColor=)
 [![Modelos Matematicos](https://img.shields.io/badge/Modelos-Matematicos-990.svg)](https://claude.ai/public/artifacts/eea2a7fa-49ad-41d7-b036-7e48bd19fb7a)
