@@ -14,8 +14,7 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
-[![Youtube](https://img.shields.io/badge/Youtube-990000.svg?style=for-the-badge&logo=&logoColor=)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![HTML5](https://img.shields.io/badge/lenguaje-HTML5-990.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![Youtube](https://img.shields.io/badge/Youtube-990000.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![CSS3](https://img.shields.io/badge/Lenguaje-CCS3-990.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje-JavaScript-990.svg)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![NodeJS](https://img.shields.io/badge/Lenguaje-Node.js-990.svg)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
@@ -23,7 +22,7 @@
 [![GitHub](https://img.shields.io/badge/Lenguaje-GitHub-990.svg)](https://www.youtube.com/watch?v=btlEy8nGOrY&t=1662s)
 [![Linux](https://img.shields.io/badge/Lenguaje-Linux-990.svg)](https://www.youtube.com/watch?v=L906Kti3gzE&t=633s)
 
-[![Guia-Completa](https://img.shields.io/badge/Guia_completa-990000.svg?style=for-the-badge&logo=&logoColor=)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![Guia-Completa](https://img.shields.io/badge/Guia_completa-990000.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![curso-HTML5](https://img.shields.io/badge/Curso-HTML5-990.svg)](https://claude.ai/public/artifacts/47e64a79-b963-4b8b-9e86-4fd270aaaf9f)
 [![CSS3](https://img.shields.io/badge/Curso-CSS3-990.svg)](https://claude.ai/share/705f2ea4-ddb0-4704-9da5-12f7ecd43ec9)
 [![JavaScript](https://img.shields.io/badge/Curso-JavaScript-990.svg)](https://claude.ai/public/artifacts/f40374bd-b152-478b-a879-4a1d74f9a3ed)
@@ -34,7 +33,7 @@
 [![Linux](https://img.shields.io/badge/Comandos-Linux-990.svg)](https://claude.ai/public/artifacts/d4612bbb-9a20-427f-a190-34486358bdae)
 [![Latex-online](https://img.shields.io/badge/Latex-GUIA_ONLINE-990.svg)](https://aprendeconalf.es/latex-manual/formulas.html) 
 
-![Coursera](https://img.shields.io/badge/Sitios_Online-990000.svg?style=for-the-badge&logo=&logoColor=white)
+![Coursera](https://img.shields.io/badge/Sitios_Online-990000.svg)
 [![Coursera](https://img.shields.io/badge/Cursos-Coursera-990.svg)](https://www.coursera.org/)
 [![EDX](https://img.shields.io/badge/Cursos-EDX-990.svg)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)](https://www.udemy.com/)
