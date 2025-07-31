@@ -1,6 +1,6 @@
-[![YouTube](https://img.shields.io/badge/YouTube-990000.svg?style=for-the-badge&logo=YouTube&logoColor=990)](https://www.youtube.com/@drjavierbaez1959)
-[![Pastebin](https://img.shields.io/badge/Pastebin-990000.svg?style=for-the-badge&logo=pastebin#&logoColor=990)](https://pastebin.com/search?q=braulio777)
-[![Instructables](https://img.shields.io/badge/Instructables-000000.svg?style=for-the-badge&logo=instructables#&logoColor=990)](https://www.instructables.com/search/?q=braulio777&projects=featured)
+[![YouTube](https://img.shields.io/badge/YouTube-990000.svg)](https://www.youtube.com/@drjavierbaez1959)
+[![Pastebin](https://img.shields.io/badge/Pastebin-990000.svg)](https://pastebin.com/search?q=braulio777)
+[![Instructables](https://img.shields.io/badge/Instructables-000000.svg)](https://www.instructables.com/search/?q=braulio777&projects=featured)
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
