@@ -151,7 +151,6 @@ L =\frac{\mu_{o} \cdot \mu_{r} \cdot N^{2}\cdot A}{l}
 $$
 
 #### Definicion de factores
-%%latex
 $$
 L = Inductancia(H,Henries)\\
 \mu_{o} = permeabilidad-vacío(4π × 10⁻⁷ H/m)\\
