@@ -158,7 +158,7 @@ l = longitud-del-solenoide (m)
 
 ```
 math
-L = \frac{\mu_{o}\cdot\mu_{r}\cdot}N^{2}\cdot A{l}
+L = \frac{\mu_{o}\cdot\mu_{r}\cdotN^{2}\cdot A}{l}
 ```
 
 
