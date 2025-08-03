@@ -145,9 +145,11 @@
 [![BDE](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990.svg)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
 ### Calculo de Inductancias con el modelo
-#### Bobina cilindrica y Definicion de factores
+#### Bobina cilindrica 
 
 ![formula](https://latex.codecogs.com/svg.image?L=\frac{\mu_0\mu_r%20N^2%20A}{l})
+
+### Definicion de factores
 
 #### L = Inductancia(H,Henries)
 #### μ₀  = permeabilidad-vacío(4π × 10⁻⁷ H/m)
