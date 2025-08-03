@@ -146,17 +146,17 @@
 
 ### Calculo de Inductancias con el modelo
 #### Bobina cilindrica y Definicion de factores
-$
-\begin{Vmatrix}
-L =\frac{\mu_{o} \cdot \mu_{r} \cdot N^{2}\cdot A}{l}\\
+
+$L = \frac{\mu_{0}\cdot \mu_{r}\cdot N^{2}\cdot A}{l}$
+
+<!-- $$
 L = Inductancia(H,Henries)\\
 \mu_{o} = permeabilidad-vacío(4π × 10⁻⁷ H/m)\\
 \mu_{r} = permeabilidad-relativa-núcleo (1:aire)\\
 N = número-de-espiras\\
 A = área-de-la-sección-transversal (m²)\\
 l = longitud-del-solenoide (m)
-\end{Vmatrix}
-$
+$$ -->
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg)<br/>
 
