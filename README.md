@@ -157,10 +157,10 @@ A = área-de-la-sección-transversal (m²)\\
 l = longitud-del-solenoide (m)
 
 ```
-%%latex
 math
 L = \frac{\mu_{o}\cdot \mu_{r}\cdot N^{2}\cdot A}{l}
 ```
+L = (μ₀ × μᵣ × N² × A) / l
 
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg)<br/>
