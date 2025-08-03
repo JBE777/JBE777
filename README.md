@@ -151,7 +151,7 @@
 
 #### L = Inductancia(H,Henries)
 #### μ₀  = permeabilidad-vacío(4π × 10⁻⁷ H/m)
-#### μᵣ = permeabilidad-relativa-núcleo (1:aire)\\
+#### μᵣ = permeabilidad-relativa-núcleo (1:aire)
 #### N = número-de-espiras
 ##### A = área-de-la-sección-transversal (m²)
 #### l = longitud-del-solenoide (m)
