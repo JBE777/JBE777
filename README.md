@@ -146,6 +146,7 @@
 
 ### Calculo de Inductancias con el modelo
 #### Bobina cilindrica y Definicion de factores
+%%latex
 $$
 \begin{Vmatrix}
 L =\frac{\mu_{o} \cdot \mu_{r} \cdot N^{2}\cdot A}{l}\\
