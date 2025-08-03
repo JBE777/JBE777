@@ -149,14 +149,13 @@
 
 ![formula](https://latex.codecogs.com/svg.image?L=\frac{\mu_0\mu_r%20N^2%20A}{l})
 
-### Definicion de factores
+#### Definicion de factores
 
-#### L = Inductancia(H,Henries)
-#### μ₀  = permeabilidad-vacío(4π × 10⁻⁷ H/m)
-#### μᵣ = permeabilidad-relativa-núcleo (1:aire)
-#### N = número-de-espiras
-##### A = área-de-la-sección-transversal (m²)
-#### l = longitud-del-solenoide (m)
+###### μ₀  = permeabilidad-vacío(4π × 10⁻⁷ H/m)
+###### μᵣ = permeabilidad-relativa-núcleo (1:aire)
+###### N = número-de-espiras
+###### A = área-de-la-sección-transversal (m²)
+###### l = longitud-del-solenoide (m)
 
 
 
