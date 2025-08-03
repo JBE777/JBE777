@@ -147,7 +147,7 @@
 ### Calculo de Inductancias con el modelo
 #### Bobina cilindrica y Definicion de factores
 
-![formula](https://latex.codecogs.com/svg.image?L=\frac{\mu_0\cdot\mu_r%20\cdotN^2%20\cdotA}{l})
+![formula](https://latex.codecogs.com/svg.image?L=\frac{\mu_0\mu_r%20N^2%20A}{l})
 
 #### L = Inductancia(H,Henries)
 \mu_{o} = permeabilidad-vacío(4π × 10⁻⁷ H/m)\\
