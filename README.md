@@ -144,6 +144,12 @@
 [![Ecuaciones diferenciales booleanas](https://img.shields.io/badge/Ecuaciones_Diferenciales-Booleanas-990000.svg)](https://claude.ai/public/artifacts/0db78002-5321-4d68-bba7-6556709e5d7f)
 [![BDE](https://img.shields.io/badge/Ejemplos-Derivadas_e_integrales-990.svg)](https://claude.ai/public/artifacts/959dc47d-2486-4004-8fb0-f066ec915b76)
 
+### Calculo de Inductancias con el modelo
+µ<sub>0<sub><br/> 
+
+µ<sub>r<sub> 
+
+
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg)<br/>
 
 ![JBE777's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbe777&show_icons=true&theme=gruvbox) 
