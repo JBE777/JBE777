@@ -157,6 +157,7 @@ A = área-de-la-sección-transversal (m²)\\
 l = longitud-del-solenoide (m)
 
 ```
+%%latex
 math
 L = \frac{\mu_{o}\cdot \mu_{r}\cdot N^{2}\cdot A}{l}
 ```
