@@ -147,7 +147,7 @@
 ### Calculo de Inductancias con el modelo
 #### Bobina cilindrica y Definicion de factores
 
-$L = \frac{\mu_{0}\cdot \mu_{r}\cdot N^{2}\cdot A}{l}$
+![formula](https://latex.codecogs.com/svg.image?L=\frac{\mu_0\mu_r%20N^2%20A}{l})
 
 <!-- $$
 L = Inductancia(H,Henries)\\
