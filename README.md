@@ -80,7 +80,6 @@
 * Ingeniero Electrónico: <em>Incompleta</em>
 * Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
-
 <b>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em>
 
@@ -133,6 +132,7 @@
 [![Google-colab](https://img.shields.io/badge/Guia-Google_colab-990.svg)](https://claude.ai/public/artifacts/f3aed168-0d68-43be-ade6-e8be17d65a94)
 [![PowerBI](https://img.shields.io/badge/Guia-PowerBI-990.svg)](https://claude.ai/public/artifacts/a24208c1-c127-444e-a06e-2fa84549e7ff)
 [![Python](https://img.shields.io/badge/Guia-Python-990.svg)](https://claude.ai/public/artifacts/4b89ff1a-b7c9-48e7-8e84-a61118cff41b)
+[![Python Plus](https://img.shields.io/badge/Python-Guiado-990000.svg)](https://www.youtube.com/watch?v=b4AgSGA39Ds&t=157s)
 [![PHP](https://img.shields.io/badge/Guia-PHP-990.svg)](https://claude.ai/public/artifacts/bf2fbc9b-ffba-4e56-83f2-d3a340607ab1)
 [![Markdown](https://img.shields.io/badge/Guia-Markdown-990.svg)](https://claude.ai/public/artifacts/df0f2aff-3d37-4f61-956c-3cc5893dde54)
 [![Latex](https://img.shields.io/badge/Guia-Latex-990.svg)](https://claude.ai/public/artifacts/d359210d-8270-47cb-b47f-dd6910ca0860)
@@ -157,8 +157,8 @@
 ###### A = área-de-la-sección-transversal (m²)
 ###### l = longitud-del-solenoide (m)
 
-
-
+#### Crea Badges
+[![Badges](https://img.shields.io/badge/Busca-Badges-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
 ![Estadisticas](https://img.shields.io/badge/Estadisticas-tecnologias%20usadas-990000.svg)<br/>
 
