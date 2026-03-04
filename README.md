@@ -14,7 +14,7 @@
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
-[![Youtube](https://img.shields.io/badge/Youtube-990000.svg)](https://[www.youtube.com/watch?v=XqFR2lqBYPs&t=793s](https://www.youtube.com/watch?v=iwFEc6I8wSA))
+[![Youtube](https://img.shields.io/badge/Youtube-990000.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)(https://www.youtube.com/watch?v=iwFEc6I8wSA))
 [![CSS3](https://img.shields.io/badge/Lenguaje-CCS3-990.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje-JavaScript-990.svg)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 [![NodeJS](https://img.shields.io/badge/Lenguaje-Node.js-990.svg)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=76s)
