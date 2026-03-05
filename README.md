@@ -15,6 +15,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
 [![Youtube](https://img.shields.io/badge/GRID-Youtube-990000.svg)](https://www.youtube.com/watch?v=QcYz949d8rM)
+[![Youtube](https://img.shields.io/badge/GRID2-Youtube-990000.svg)](https://www.youtube.com/watch?v=xNZNHdplmxk)
 [![Youtube](https://img.shields.io/badge/SPEC_FLEXBOX-Youtube-990000.svg)](https://www.youtube.com/watch?v=nBCvLJjcFNk)
 [![Youtube](https://img.shields.io/badge/FLEXBOX-Youtube-990000.svg)](https://www.youtube.com/watch?v=iwFEc6I8wSA&t=4s)
 [![Youtube](https://img.shields.io/badge/CSS-Youtube-990000.svg)](https://www.youtube.com/watch?v=VgHproadDD8)
