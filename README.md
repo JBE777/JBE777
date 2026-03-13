@@ -17,6 +17,7 @@
 [![Youtube](https://img.shields.io/badge/JavaScript-Youtube-990000.svg)](https://www.youtube.com/watch?v=M7yqd0CHN90&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD&index=9)
 [![Youtube](https://img.shields.io/badge/JavaScript_TicTacToe-Youtube-990000.svg)](https://www.youtube.com/watch?v=NuG59Zw8wf4E)
 [![Youtube](https://img.shields.io/badge/SPECIAL_JavaScript-Youtube-990000.svg)](https://www.youtube.com/watch?v=RqQ1d1qEWlE)
+[![Youtube](https://img.shields.io/badge/REDUCCION_ESTADOS(ELEC_DIGITAL)-Youtube-990000.svg)](https://www.youtube.com/watch?v=vKw2ix4HFYE)
 [![Youtube](https://img.shields.io/badge/REDUCCION_ESTADOS_CIRCUITO_SECUENCIAL-Youtube-990000.svg)](https://www.youtube.com/watch?v=OQoRXKqRf9s)
 [![Youtube](https://img.shields.io/badge/SPECIAL_GRID-Youtube-990000.svg)](https://www.youtube.com/watch?v=RbOj2AOCTLQ)
 [![Youtube](https://img.shields.io/badge/GRID-Youtube-990000.svg)](https://www.youtube.com/watch?v=QcYz949d8rM)
