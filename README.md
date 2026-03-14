@@ -83,7 +83,7 @@ Maestría en Power BI<sup>3</sup> <br>
 Mastering Data Science and Machine Learning Fundamentals<sup>3</sup><br>
 Master en Machine Learning-Aprende Python y R desde cero<sup>3</sup><br>
 Master en Arduino IoT Internet of Things y mucho más!<sup>3</sup><br>
-Maestría en Analísis de Datos:</b> Python, SQL, ML y PowerBI<sup>3</sup><br>
+<b>Maestría en Analísis de Datos:</b> Python, SQL, ML y PowerBI<sup>3</sup><br>
 Maestría en IoT_teorico<sup>3</sup>
 
 
