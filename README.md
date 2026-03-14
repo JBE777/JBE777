@@ -69,37 +69,32 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 
 <hr/>
 
-# <b>Henry, Udemy y Coursera</b>
+# <b>Henry<sup>1</sup>, Coursera<sup>2</sup> y Udemy<sup>3</sup></b>
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg) <br>
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg) <br>
 
-* Data_Science: Python, SQL y non SQL
+* Data_Science: Python, SQL y non SQL<sup>1</sup>
 
 <b>THE HONG KONG UNIVERSITY</b>
-* Math for Engineers:
-  * Matrix Algebra 
-  * Vector Calculus
-  * Differential Equations 
+* Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
-* Electronica y Arduinos para tus propios Inventos
+* Electronica y Arduinos para tus propios Inventos<sup>2</sup>
 
 <b>UNIVERSIDAD DE CHILE</b>
-* El desafio de Innovar en la Educación Superior
+* El desafio de Innovar en la Educación Superior<sup>2</sup>
 
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
-* Sistemas Digitales: desde las puertas logicas al procesador
+* Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup>
 
-
-<b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
-* Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
-* Maestría en Power BI
-* Mastering Data Science and Machine Learning Fundamentals
-* Master en Machine Learning-Aprende Python y R desde cero
-* Master en Arduino IoT Internet of Things y mucho más!
-* Maestría en Analísis de Datos: Python, SQL, ML y PowerBI
-* Maestría en IoT_teorico
+* Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales<sup>3</sup> 
+* Maestría en Power BI<sup>3</sup>
+* Mastering Data Science and Machine Learning Fundamentals<sup>3</sup>
+* Master en Machine Learning-Aprende Python y R desde cero<sup>3</sup>
+* Master en Arduino IoT Internet of Things y mucho más!<sup>3</sup>
+* Maestría en Analísis de Datos: Python, SQL, ML y PowerBI<sup>3</sup>
+* Maestría en IoT_teorico<sup>3</sup>
 
 
 
