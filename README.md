@@ -76,7 +76,7 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 <b>DATA SCIENCE</b>: Python, SQL y non SQL<sup>1</sup><br> 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b> Electronica y Arduinos para tus propios Inventos<sup>2</sup><br>
 <b>UNIVERSIDAD DE CHILE</b> El desafio de Innovar en la Educación Superior<sup>2</sup><br>
-<b>UNIVERSIDAD AUTONOMA DE BARCELONA</b> Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup><img src="xor.png" width="100" height="50" alt="Descripción"><br>
+<b>UNIVERSIDAD AUTONOMA DE BARCELONA</b> Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup><img src="xor.png" width="50" height="25" alt="Descripción"><br>
 <b>PYTHON DATA SCIENCE APLICADO A NEGOCIOS:</b> 6 Casos de Estudio Reales<sup>3</sup> <br>
 Maestría en Power BI<sup>3</sup> <br>
 Mastering Data Science and Machine Learning Fundamentals<sup>3</sup><br>
