@@ -86,10 +86,10 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-universitaria-990.svg)
 
-<sup>1</sup>UABC: <b>Universidad Autonoma de Baja California, Mexico</b><br>
-<sup>2</sup>NAU: <b>Northern Arizona University, USA</b><br>
-<sup>3</sup>CETYS: <b>Centro de Enseñanza Tecnica y Superior, Mexico</b><br>
-<sup>4</sup>CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><br>
+UABC: <b>Universidad Autonoma de Baja California, Mexico</b><sup>1</sup><br>
+NAU: <b>Northern Arizona University, USA</b><sup>1</sup><br>
+CETYS: <b>Centro de Enseñanza Tecnica y Superior, Mexico</b><sup>1</sup><br>
+CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>1</sup><br>
 * <b><sup>1</sup></b>Ingeniero Electrónico: <em>Incompleta</em> 
 * <b><sup>1</sup></b>Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 * <b><sup>2</sup></b>Bachelor of Science in Education: <em>Graduado-2007</em>
