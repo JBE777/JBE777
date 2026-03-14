@@ -13,7 +13,6 @@
 
 ##### <b><em>Haz click sobre cada icono para aprender del programa en cuestion<em></b>
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
-
 [![Youtube](https://img.shields.io/badge/JavaScript-Youtube-990000.svg)](https://www.youtube.com/watch?v=M7yqd0CHN90&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD&index=9)
 [![Youtube](https://img.shields.io/badge/JavaScript_TicTacToe-Youtube-990000.svg)](https://www.youtube.com/watch?v=NuG59Zw8wf4E)
 [![Youtube](https://img.shields.io/badge/SPECIAL_JavaScript-Youtube-990000.svg)](https://www.youtube.com/watch?v=RqQ1d1qEWlE)
@@ -26,6 +25,7 @@
 [![Youtube](https://img.shields.io/badge/SPEC_FLEXBOX-Youtube-990000.svg)](https://www.youtube.com/watch?v=nBCvLJjcFNk)
 [![Youtube](https://img.shields.io/badge/FLEXBOX-Youtube-990000.svg)](https://www.youtube.com/watch?v=iwFEc6I8wSA&t=4s)
 [![Youtube](https://img.shields.io/badge/CSS-Youtube-990000.svg)](https://www.youtube.com/watch?v=VgHproadDD8)
+[![Youtube](https://img.shields.io/badge/COMANDO-Youtube-990000.svg)](https://www.youtube.com/watch?v=eTJnz4Yt7nc)
 [![Youtube](https://img.shields.io/badge/Youtube-990000.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
 [![CSS3](https://img.shields.io/badge/Lenguaje-CCS3-990.svg)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
 [![JavaScript](https://img.shields.io/badge/Lenguaje-JavaScript-990.svg)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
