@@ -74,7 +74,7 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<b><sup>2</sup></b>
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<b><sup>3</sup></b> <br>
 
-<b>DATA SCIENCE</b>: Python, SQL y non SQL<sup>1</sup><br> 
+<p style="color:red;">DATA SCIENCE</p>: Python, SQL y non SQL<sup>1</sup><br> 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b> Electronica y Arduinos para tus propios Inventos<sup>2</sup><br>
 <b>UNIVERSIDAD DE CHILE</b> El desafio de Innovar en la Educación Superior<sup>2</sup><br>
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b> Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup><br>
