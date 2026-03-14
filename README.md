@@ -69,15 +69,14 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 
 <hr/>
 
-# <b>Henry<sup>1</sup>, Coursera<sup>2</sup> y Udemy<sup>3</sup></b>
+
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)<sup>1</sup>
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<sup>2</sup>
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<sup>3</sup> <br>
 
 * Data_Science: Python, SQL y non SQL<sup>1</sup>
 
-<b>THE HONG KONG UNIVERSITY</b>
-* Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
+### <b>THE HONG KONG UNIVERSITY</b> Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
 * Electronica y Arduinos para tus propios Inventos<sup>2</sup>
