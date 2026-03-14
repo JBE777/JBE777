@@ -87,16 +87,16 @@
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-universitaria-990.svg)
 
 UABC: <b>Universidad Autonoma de Baja California, Mexico</b><sup>1</sup><br>
-NAU: <b>Northern Arizona University, USA</b><sup>1</sup><br>
-CETYS: <b>Centro de Enseñanza Tecnica y Superior, Mexico</b><sup>1</sup><br>
-CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>1</sup><br>
-* <b><sup>1</sup></b>Ingeniero Electrónico: <em>Incompleta</em> 
-* <b><sup>1</sup></b>Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
-* <b><sup>2</sup></b>Bachelor of Science in Education: <em>Graduado-2007</em>
-* <b><sup>3</sup></b>Posgrado en Administración Industrial: <em>Graduado-1987</em>
-* <b><sup>3</sup></b>Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em>
-* <b><sup>3</sup></b>Maestría en Administración(MBA): <em>Graduado-2012</em>
-* <b><sup>4</sup></b>Doctor en Educación: <em>Graduado-2019</em>
+NAU: <b>Northern Arizona University, USA</b><sup>2</sup><br>
+CETYS: <b>Centro de Enseñanza Tecnica y Superior, Mexico</b><sup>3</sup><br>
+CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</sup><br>
+* Ingeniero Electrónico: <em>Incompleta</em><sup>1</sup> 
+* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em><sup>1</sup>
+* Bachelor of Science in Education: <em>Graduado-2007</em><sup>2</sup>
+* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>3</sup>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>3</sup>
+* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>3</sup>
+* Doctor en Educación: <em>Graduado-2019</em><sup>4</sup>
 
 
 
