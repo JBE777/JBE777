@@ -71,10 +71,11 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 
 # <b>Henry, Udemy y Coursera</b>
 ![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg) <br>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg) <br>
 
 * Data_Science: Python, SQL y non SQL
 
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg) <br>
 <b>THE HONG KONG UNIVERSITY</b>
 * Math for Engineers:
   * Matrix Algebra 
@@ -90,7 +91,6 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
 * Sistemas Digitales: desde las puertas logicas al procesador
 
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg) <br>
 
 <b>HTML, CSS3, Python, MySQL, Arduino y Power BI</b>
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales 
