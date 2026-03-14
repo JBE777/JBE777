@@ -95,10 +95,10 @@
 <b><sub>2</sub>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 <b><sub>3</sub>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em><sup>1</sup>
-* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>1</sup>
-* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>1</sup>
-* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>1</sup>
-* Doctor en Educación: <em>Graduado-2019</em><sup>1</sup>
+* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>2</sup>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>2</sup>
+* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>2</sup>
+* Doctor en Educación: <em>Graduado-2019</em><sup>3</sup>
 
 
 
