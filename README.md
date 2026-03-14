@@ -76,7 +76,7 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 
 * Data_Science: Python, SQL y non SQL<sup>1</sup>
 
-### <b>THE HONG KONG UNIVERSITY</b> Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
+<b>THE HONG KONG UNIVERSITY</b> Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
 * Electronica y Arduinos para tus propios Inventos<sup>2</sup>
