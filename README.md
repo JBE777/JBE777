@@ -70,7 +70,7 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 <hr/>
 
 
-![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)<b style="color: yellow"><sup>1</sup></b>
+![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)<b style="color:#ffff00;"><sup>1</sup></b>
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<sup>2</sup>
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<sup>3</sup> <br>
 
