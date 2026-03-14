@@ -70,9 +70,9 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 <hr/>
 
 
-![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)<b style="color:#ffff00;"><sup>1</sup></b>
-![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<sup>2</sup>
-![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<sup>3</sup> <br>
+![Henry](https://img.shields.io/badge/Cursos-Henry-ffff00.svg)<b><sup style="color:red;">1</sup></b>
+![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<b><sup>2</sup></b>
+![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<b><sup>3</sup></b> <br>
 
 <b>DATA SCIENCE</b>: Python, SQL y non SQL<sup>1</sup><br> 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b> Electronica y Arduinos para tus propios Inventos<sup>2</sup><br>
