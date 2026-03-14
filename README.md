@@ -86,19 +86,19 @@
 
 ![Formación profesional](https://img.shields.io/badge/Formacion_academica-universitaria-990.svg)
 
-<b>UABC: Universidad Autonoma de Baja California, Mexico</b>
+<b><sup>1</sup>UABC: Universidad Autonoma de Baja California, Mexico</b><br>
+<b><sup>2</sup>NAU: Northern Arizona University, USA</b><br>
+<b><sup>3</sup>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b><br>
+<b><sup>4</sup>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
+* Ingeniero Electrónico: <em>Incompleta</em><sup>1</sup>
+* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em><sup>1</sup>
+* Bachelor of Science in Education: <em>Graduado-2007</em><sup>2</sup>
+* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>3</sup>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>3</sup>
+* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>3</sup>
+* Doctor en Educación: <em>Graduado-2019</em><sup>4</sup>
 
-* Ingeniero Electrónico: <em>Incompleta</em>
-* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
-<b><sup>1</sup>NAU: Northern Arizona University, USA</b><br>
-<b><sup>2</sup>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b><br>
-<b><sup>3</sup>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
-* Bachelor of Science in Education: <em>Graduado-2007</em><sup>1</sup>
-* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>2</sup>
-* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>2</sup>
-* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>2</sup>
-* Doctor en Educación: <em>Graduado-2019</em><sup>3</sup>
 
 
 
