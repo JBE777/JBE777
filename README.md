@@ -92,16 +92,16 @@
 * Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
 <b><sub>1</sub>NAU: Northern Arizona University, USA</b>
-* Bachelor of Science in Education: <em>Graduado-2007</em>
+<b><sub>2</sub>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
+<b><sub>3</sub>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
+* Bachelor of Science in Education: <em>Graduado-2007</em><sup>1</sup>
+* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>1</sup>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>1</sup>
+* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>1</sup>
+* Doctor en Educación: <em>Graduado-2019</em><sup>1</sup>
 
-<b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
 
-* Posgrado en Administración Industrial: <em>Graduado-1987</em>
-* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em>
-* Maestría en Administración(MBA): <em>Graduado-2012</em>
 
-<b>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
-* Doctor en Educación: <em>Graduado-2019</em>
 
 [![Tesis Doctoral](https://img.shields.io/badge/Como_escribir_una-Tesis_Doctoral-990000.svg)](https://claude.ai/public/artifacts/8534de34-91cf-42c9-8f4a-59ec95cad2b3)
 
