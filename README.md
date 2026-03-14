@@ -91,9 +91,9 @@
 * Ingeniero Electrónico: <em>Incompleta</em>
 * Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
-<b><sub>1</sub>NAU: Northern Arizona University, USA</b>
-<b><sub>2</sub>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
-<b><sub>3</sub>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
+<b><sup>1</sup>NAU: Northern Arizona University, USA</b><br>
+<b><sup>2</sup>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b><br>
+<b><sup>3</sup>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em><sup>1</sup>
 * Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>2</sup>
 * Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>2</sup>
