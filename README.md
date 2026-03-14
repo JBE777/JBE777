@@ -90,13 +90,13 @@
 <b><sup>2</sup>NAU: Northern Arizona University, USA</b><br>
 <b><sup>3</sup>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b><br>
 <b><sup>4</sup>CUSON: Centro de Estudios Superiores del Estado de Sonora, Mexico</b>
-* Ingeniero Electrónico: <em>Incompleta</em><sup>1</sup>
-* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em><sup>1</sup>
-* Bachelor of Science in Education: <em>Graduado-2007</em><sup>2</sup>
-* Posgrado en Administración Industrial: <em>Graduado-1987</em><sup>3</sup>
-* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><sup>3</sup>
-* Maestría en Administración(MBA): <em>Graduado-2012</em><sup>3</sup>
-* Doctor en Educación: <em>Graduado-2019</em><sup>4</sup>
+* Ingeniero Electrónico: <em>Incompleta</em><b><sup>1</sup><b>
+* Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em><b><sup>1</sup><b>
+* Bachelor of Science in Education: <em>Graduado-2007</em><b><sup>2</sup><b>
+* Posgrado en Administración Industrial: <em>Graduado-1987</em><b><sup>3</sup><b>
+* Posgrado en Administración de Recursos Humanos: <em>Graduado-1996</em><b><sup>3</sup><b>
+* Maestría en Administración(MBA): <em>Graduado-2012</em><b><sup>3</sup><b>
+* Doctor en Educación: <em>Graduado-2019</em><b><sup>4</sup><b>
 
 
 
