@@ -74,18 +74,11 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<sup>2</sup>
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<sup>3</sup> <br>
 
-* Data_Science: Python, SQL y non SQL<sup>1</sup>
-
+<b>DATA SCIENCE</b>: Python, SQL y non SQL<sup>1</sup>
 <b>THE HONG KONG UNIVERSITY</b> Math for Engineers: Matrix Algebra, Vector Calculus y Differential Equations<sup>2</sup> 
-
-<b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b>
-* Electronica y Arduinos para tus propios Inventos<sup>2</sup>
-
-<b>UNIVERSIDAD DE CHILE</b>
-* El desafio de Innovar en la Educación Superior<sup>2</sup>
-
-<b>UNIVERSIDAD AUTONOMA DE BARCELONA</b>
-* Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup>
+<b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b> Electronica y Arduinos para tus propios Inventos<sup>2</sup>
+<b>UNIVERSIDAD DE CHILE</b> El desafio de Innovar en la Educación Superior<sup>2</sup>
+<b>UNIVERSIDAD AUTONOMA DE BARCELONA</b> Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup>
 
 * Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales<sup>3</sup> 
 * Maestría en Power BI<sup>3</sup>
