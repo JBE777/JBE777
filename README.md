@@ -91,7 +91,7 @@
 * Ingeniero Electrónico: <em>Incompleta</em>
 * Ingeniero Topógrafo y Geodesta: <em>Graduado-1983</em>
 
-<b>NAU: Northern Arizona University, USA</b>
+<b><sub>1</sub>NAU: Northern Arizona University, USA</b>
 * Bachelor of Science in Education: <em>Graduado-2007</em>
 
 <b>CETYS: Centro de Enseñanza Tecnica y Superior, Mexico</b>
