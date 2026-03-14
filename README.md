@@ -74,18 +74,17 @@ CUSON: <b>Centro de Estudios Superiores del Estado de Sonora, Mexico</b><sup>4</
 ![Coursera](https://img.shields.io/badge/Cursos-Coursera-3300aa.svg)<b><sup>2</sup></b>
 ![Udemy](https://img.shields.io/badge/Cursos-Udemy-990.svg)<b><sup>3</sup></b> <br>
 
-<p style="color:red;">DATA SCIENCE</p>: Python, SQL y non SQL<sup>1</sup><br> 
+<b>DATA SCIENCE</b>: Python, SQL y non SQL<sup>1</sup><br> 
 <b>PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE</b> Electronica y Arduinos para tus propios Inventos<sup>2</sup><br>
 <b>UNIVERSIDAD DE CHILE</b> El desafio de Innovar en la Educación Superior<sup>2</sup><br>
 <b>UNIVERSIDAD AUTONOMA DE BARCELONA</b> Sistemas Digitales: desde las puertas logicas al procesador<sup>2</sup><br>
-
-* Python para Data Science aplicado a Negocios: 6 Casos de Estudio Reales<sup>3</sup> 
-* Maestría en Power BI<sup>3</sup>
-* Mastering Data Science and Machine Learning Fundamentals<sup>3</sup>
-* Master en Machine Learning-Aprende Python y R desde cero<sup>3</sup>
-* Master en Arduino IoT Internet of Things y mucho más!<sup>3</sup>
-* Maestría en Analísis de Datos: Python, SQL, ML y PowerBI<sup>3</sup>
-* Maestría en IoT_teorico<sup>3</sup>
+<b>PYTHON DATA SCIENCE APLICADO A NEGOCIOS:</b> 6 Casos de Estudio Reales<sup>3</sup> 
+<b>Maestría en Power BI</b><sup>3</sup>
+<b>Mastering Data Science and Machine Learning Fundamentals</b><sup>3</sup>
+<b>Master en Machine Learning-Aprende Python y R desde cero</b><sup>3</sup>
+<b>Master en Arduino IoT Internet of Things y mucho más!</b><sup>3</sup>
+<b>Maestría en Analísis de Datos:</b> Python, SQL, ML y PowerBI<sup>3</sup>
+<b>Maestría en IoT_teorico</b><sup>3</sup>
 
 
 
